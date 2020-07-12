@@ -1,0 +1,1323 @@
+year,city,event_url,running_order,country,contestant,song,points,place
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,1,Malta,Michela,Chameleon,107,14
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,2,Albania,Jonida Maliqi,Ktheju tokës,90,17
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,3,Czech Republic,Lake Malawi,Friend of a Friend,157,11
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,4,Germany,S!sters,Sister,24,25
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,5,Russia,Sergey Lazarev,Scream,370,3
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,6,Denmark,Leonora,Love Is Forever,120,12
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,7,San Marino,Serhat,Say Na Na Na,77,19
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,8,North Macedonia,Tamara Todevska,Proud,305,7
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,9,Sweden,John Lundvik,Too Late For Love,334,5
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,10,Slovenia,Zala Kralj & Gašper Šantl,Sebi,105,15
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,11,Cyprus,Tamta,Replay,109,13
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,12,The Netherlands,Duncan Laurence,Arcade,498,1
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,13,Greece,Katerine Duska,Better Love,74,21
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,14,Israel,Kobi Marimi,Home,35,23
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,15,Norway,KEiiNO,Spirit in the Sky,331,6
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,16,United Kingdom,Michael Rice,Bigger Than Us,11,26
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,17,Iceland,Hatari,Hatrið mun sigra,232,10
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,18,Estonia,Victor Crone,Storm,76,20
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,19,Belarus,ZENA,Like It,31,24
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,20,Azerbaijan,Chingiz,Truth,302,8
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,21,France,Bilal Hassani,Roi,105,16
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,22,Italy,Mahmood,Soldi,472,2
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,23,Serbia,Nevena Božović,Kruna,89,18
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,24,Switzerland,Luca Hänni,She Got Me,364,4
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,25,Australia,Kate Miller-Heidke,Zero Gravity,284,9
+2019,Tel Aviv,https://eurovision.tv/event/tel-aviv-2019,26,Spain,Miki,La Venda,54,22
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,1,Ukraine,MELOVIN,Under The Ladder,130,17
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,2,Spain,Amaia y Alfred,Tu Canción,61,23
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,3,Slovenia,Lea Sirk,"Hvala, ne!",64,22
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,4,Lithuania,Ieva Zasimauskaitė,When We're Old,181,12
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,5,Austria,Cesár Sampson,Nobody But You,342,3
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,6,Estonia,Elina Nechayeva,La Forza,245,8
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,7,Norway,Alexander Rybak,That's How You Write A Song,144,15
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,8,Portugal,Cláudia Pascoal,O Jardim,39,26
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,9,United Kingdom,SuRie,Storm,48,24
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,10,Serbia,Sanja Ilić & Balkanika,Nova Deca,113,19
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,11,Germany,Michael Schulte,You Let Me Walk Alone,340,4
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,12,Albania,Eugent Bushpepa,Mall,184,11
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,13,France,Madame Monsieur,Mercy,173,13
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,14,Czech Republic,Mikolas Josef,Lie To Me,281,6
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,15,Denmark,Rasmussen,Higher Ground,226,9
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,16,Australia,Jessica Mauboy,We Got Love,99,20
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,17,Finland,Saara Aalto,Monsters,46,25
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,18,Bulgaria,EQUINOX,Bones,166,14
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,19,Moldova,DoReDoS,My Lucky Day,209,10
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,20,Sweden,Benjamin Ingrosso,Dance You Off,274,7
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,21,Hungary,AWS,Viszlát Nyár,93,21
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,22,Israel,Netta,TOY,529,1
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,23,The Netherlands,Waylon,Outlaw In 'Em,121,18
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,24,Ireland,Ryan O'Shaughnessy,Together,136,16
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,25,Cyprus,Eleni Foureira,Fuego,436,2
+2018,Lisbon,https://eurovision.tv/event/lisbon-2018,26,Italy,Ermal Meta e Fabrizio Moro,Non Mi Avete Fatto Niente,308,5
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,1,Israel,IMRI,I Feel Alive,39,23
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,2,Poland,Kasia Moś,Flashlight,64,22
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,3,Belarus,Naviband,Story of My Life,83,17
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,4,Austria,Nathan Trent,Running On Air,93,16
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,5,Armenia,Artsvik,Fly With Me,79,18
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,6,The Netherlands,OG3NE,Lights and Shadows,150,11
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,7,Moldova,Sunstroke Project,Hey Mamma,374,3
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,8,Hungary,Joci Pápai,Origo,200,8
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,9,Italy,Francesco Gabbani,Occidentali's Karma,334,6
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,10,Denmark,Anja,Where I Am,77,20
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,11,Portugal,Salvador Sobral,Amar Pelos Dois,758,1
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,12,Azerbaijan,Dihaj,Skeletons,120,14
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,13,Croatia,Jacques Houdek,My Friend,128,13
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,14,Australia,Isaiah,Don't Come Easy,173,9
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,15,Greece,Demy,This is Love,77,19
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,16,Spain,Manel Navarro,Do It For Your Lover,5,26
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,17,Norway,JOWST,Grab The Moment,158,10
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,18,United Kingdom,Lucie Jones,Never Give Up On You,111,15
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,19,Cyprus,Hovig,Gravity,68,21
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,20,Romania,Ilinca ft. Alex Florea,Yodel It!,282,7
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,21,Germany,Levina,Perfect Life,6,25
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,22,Ukraine,O.Torvald,Time,36,24
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,23,Belgium,Blanche,City Lights,363,4
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,24,Sweden,Robin Bengtsson,I Can't Go On,344,5
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,25,Bulgaria,Kristian Kostov,Beautiful Mess,615,2
+2017,Kyiv,https://eurovision.tv/event/kyiv-2017,26,France,Alma,Requiem,135,12
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,1,Belgium,Laura Tesoro,What's The Pressure,181,10
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,2,Czech Republic,Gabriela Gunčíková,I Stand,41,25
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,3,The Netherlands,Douwe Bob,Slow Down,153,11
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,4,Azerbaijan,Samra,Miracle,117,17
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,5,Hungary,Freddie,Pioneer,108,19
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,6,Italy,Francesca Michielin,No Degree Of Separation,124,16
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,7,Israel,Hovi Star,Made Of Stars,135,14
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,8,Bulgaria,Poli Genova,If Love Was A Crime,307,4
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,9,Sweden,Frans,If I Were Sorry,261,5
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,10,Germany,Jamie-Lee,Ghost,11,26
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,11,France,Amir,J'ai cherché,257,6
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,12,Poland,Michał Szpak,Color Of Your Life,229,8
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,13,Australia,Dami Im,Sound Of Silence,511,2
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,14,Cyprus,Minus One,Alter Ego,96,21
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,15,Serbia,Sanja Vučić ZAA,Goodbye (Shelter),115,18
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,16,Lithuania,Donny Montell,I've Been Waiting for This Night,200,9
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,17,Croatia,Nina Kraljić,Lighthouse,73,23
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,18,Russia,Sergey Lazarev,You Are The Only One,491,3
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,19,Spain,Barei,Say Yay!,77,22
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,20,Latvia,Justs,Heartbeat,132,15
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,21,Ukraine,Jamala,1944,534,1
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,22,Malta,Ira Losco,Walk On Water,153,12
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,23,Georgia,Nika Kocharov and Young Georgian Lolitaz,Midnight Gold,104,20
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,24,Austria,ZOË,Loin d'ici,151,13
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,25,United Kingdom,Joe and Jake,You're Not Alone,62,24
+2016,Stockholm,https://eurovision.tv/event/stockholm-2016,26,Armenia,Iveta Mukuchyan,LoveWave,249,7
+2015,Vienna,https://eurovision.tv/event/vienna-2015,1,Slovenia,Maraaya,Here For You,39,14
+2015,Vienna,https://eurovision.tv/event/vienna-2015,2,France,Lisa Angell,N'oubliez Pas,4,25
+2015,Vienna,https://eurovision.tv/event/vienna-2015,3,Israel,Nadav Guedj,Golden Boy,97,9
+2015,Vienna,https://eurovision.tv/event/vienna-2015,4,Estonia,Elina Born & Stig Rästa,Goodbye To Yesterday,106,7
+2015,Vienna,https://eurovision.tv/event/vienna-2015,5,United Kingdom,Electro Velvet,Still In Love With You,5,24
+2015,Vienna,https://eurovision.tv/event/vienna-2015,6,Armenia,Genealogy,Face The Shadow,34,16
+2015,Vienna,https://eurovision.tv/event/vienna-2015,7,Lithuania,Monika Linkytė and Vaidas Baumila,This Time,30,18
+2015,Vienna,https://eurovision.tv/event/vienna-2015,8,Serbia,Bojana Stamenov,Beauty Never Lies,53,10
+2015,Vienna,https://eurovision.tv/event/vienna-2015,9,Norway,Mørland & Debrah Scarlett,A Monster Like Me,102,8
+2015,Vienna,https://eurovision.tv/event/vienna-2015,10,Sweden,Måns Zelmerlöw,Heroes,365,1
+2015,Vienna,https://eurovision.tv/event/vienna-2015,11,Cyprus,John Karayiannis,One Thing I Should Have Done,11,22
+2015,Vienna,https://eurovision.tv/event/vienna-2015,12,Australia,Guy Sebastian,Tonight Again,196,5
+2015,Vienna,https://eurovision.tv/event/vienna-2015,13,Belgium,Loïc Nottet,Rhythm Inside,217,4
+2015,Vienna,https://eurovision.tv/event/vienna-2015,14,Austria,The Makemakes,I Am Yours,NA,26
+2015,Vienna,https://eurovision.tv/event/vienna-2015,15,Greece,Maria Elena Kyriakou,One Last Breath,23,19
+2015,Vienna,https://eurovision.tv/event/vienna-2015,16,Montenegro,Knez,Adio,44,13
+2015,Vienna,https://eurovision.tv/event/vienna-2015,17,Germany,Ann Sophie,Black Smoke,NA,27
+2015,Vienna,https://eurovision.tv/event/vienna-2015,18,Poland,Monika Kuszyńska,In The Name Of Love,10,23
+2015,Vienna,https://eurovision.tv/event/vienna-2015,19,Latvia,Aminata,Love Injected,186,6
+2015,Vienna,https://eurovision.tv/event/vienna-2015,20,Romania,Voltaj,De La Capat/ All Over Again,35,15
+2015,Vienna,https://eurovision.tv/event/vienna-2015,21,Spain,Edurne,Amanecer,15,21
+2015,Vienna,https://eurovision.tv/event/vienna-2015,22,Hungary,Boggie,Wars For Nothing,19,20
+2015,Vienna,https://eurovision.tv/event/vienna-2015,23,Georgia,Nina Sublatti,Warrior,51,11
+2015,Vienna,https://eurovision.tv/event/vienna-2015,24,Azerbaijan,Elnur Huseynov,Hour Of The Wolf,49,12
+2015,Vienna,https://eurovision.tv/event/vienna-2015,25,Russia,Polina Gagarina,A Million Voices,303,2
+2015,Vienna,https://eurovision.tv/event/vienna-2015,26,Albania,Elhaida Dani,I'm Alive,34,17
+2015,Vienna,https://eurovision.tv/event/vienna-2015,27,Italy,Il Volo,Grande Amore,292,3
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,1,Ukraine,Mariya Yaremchuk,Tick - Tock,113,6
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,2,Belarus,Teo,Cheesecake,43,16
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,3,Azerbaijan,Dilara Kazimova,Start A Fire,33,22
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,4,Iceland,Pollapönk,No Prejudice,58,15
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,5,Norway,Carl Espen,Silent Storm,88,8
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,6,Romania,Paula Seling & OVI,Miracle,72,12
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,7,Armenia,Aram MP3,Not Alone,174,4
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,8,Montenegro,Sergej Ćetković,Moj Svijet,37,19
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,9,Poland,Donatan & Cleo,My Słowianie - We Are Slavic,62,14
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,10,Greece,Freaky Fortune feat. RiskyKidd,Rise Up,35,20
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,11,Austria,Conchita Wurst,Rise Like a Phoenix,290,1
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,12,Germany,Elaiza,Is it right,39,18
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,13,Sweden,Sanna Nielsen,Undo,218,3
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,14,France,TWIN TWIN,Moustache,2,26
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,15,Russia,Tolmachevy Sisters,Shine,89,7
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,16,Italy,Emma,La Mia Città,33,21
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,17,Slovenia,Tinkara Kovač,Round and round,9,25
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,18,Finland,Softengine,Something Better,72,11
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,19,Spain,Ruth Lorenzo,Dancing in the rain,74,10
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,20,Switzerland,Sebalter,Hunter Of Stars,64,13
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,21,Hungary,András Kállay-Saunders,Running,143,5
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,22,Malta,Firelight,Coming Home,32,23
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,23,Denmark,Basim,Cliche Love Song,74,9
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,24,The Netherlands,The Common Linnets,Calm After The Storm,238,2
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,25,San Marino,Valentina Monetta,Maybe (Forse),14,24
+2014,Copenhagen,https://eurovision.tv/event/copenhagen-2014,26,United Kingdom,Molly,Children of the Universe,40,17
+2013,Malmö,https://eurovision.tv/event/malmo-2013,1,France,Amandine Bourgeois,L'enfer Et Moi,14,23
+2013,Malmö,https://eurovision.tv/event/malmo-2013,2,Lithuania,Andrius Pojavis,Something,17,22
+2013,Malmö,https://eurovision.tv/event/malmo-2013,3,Moldova,Aliona Moon,O Mie,71,11
+2013,Malmö,https://eurovision.tv/event/malmo-2013,4,Finland,Krista Siegfrids,Marry Me,13,24
+2013,Malmö,https://eurovision.tv/event/malmo-2013,5,Spain,ESDM,Contigo Hasta El Final (With You Until The End),8,25
+2013,Malmö,https://eurovision.tv/event/malmo-2013,6,Belgium,Roberto Bellarosa,Love Kills,71,12
+2013,Malmö,https://eurovision.tv/event/malmo-2013,7,Estonia,Birgit,Et Uus Saaks Alguse,19,20
+2013,Malmö,https://eurovision.tv/event/malmo-2013,8,Belarus,Alyona Lanskaya,Solayoh,48,16
+2013,Malmö,https://eurovision.tv/event/malmo-2013,9,Malta,Gianluca,Tomorrow,120,8
+2013,Malmö,https://eurovision.tv/event/malmo-2013,10,Russia,Dina Garipova,What If,174,5
+2013,Malmö,https://eurovision.tv/event/malmo-2013,11,Germany,Cascada,Glorious,18,21
+2013,Malmö,https://eurovision.tv/event/malmo-2013,12,Armenia,Dorians,Lonely Planet,41,18
+2013,Malmö,https://eurovision.tv/event/malmo-2013,13,The Netherlands,Anouk,Birds,114,9
+2013,Malmö,https://eurovision.tv/event/malmo-2013,14,Romania,Cezar,It's My Life,65,13
+2013,Malmö,https://eurovision.tv/event/malmo-2013,15,United Kingdom,Bonnie Tyler,Believe In Me,23,19
+2013,Malmö,https://eurovision.tv/event/malmo-2013,16,Sweden,Robin Stjernberg,You,62,14
+2013,Malmö,https://eurovision.tv/event/malmo-2013,17,Hungary,ByeAlex,Kedvesem (Zoohacker Remix),84,10
+2013,Malmö,https://eurovision.tv/event/malmo-2013,18,Denmark,Emmelie de Forest,Only Teardrops,281,1
+2013,Malmö,https://eurovision.tv/event/malmo-2013,19,Iceland,Eythor Ingi,Ég Á Líf,47,17
+2013,Malmö,https://eurovision.tv/event/malmo-2013,20,Azerbaijan,Farid Mammadov,Hold Me,234,2
+2013,Malmö,https://eurovision.tv/event/malmo-2013,21,Greece,Koza Mostra feat. Agathon Iakovidis,Alcohol Is Free,152,6
+2013,Malmö,https://eurovision.tv/event/malmo-2013,22,Ukraine,Zlata Ognevich,Gravity,214,3
+2013,Malmö,https://eurovision.tv/event/malmo-2013,23,Italy,Marco Mengoni,L'Essenziale,126,7
+2013,Malmö,https://eurovision.tv/event/malmo-2013,24,Norway,Margaret Berger,I Feed You My Love,191,4
+2013,Malmö,https://eurovision.tv/event/malmo-2013,25,Georgia,Nodi Tatishvili & Sophie Gelovani,Waterfall,50,15
+2013,Malmö,https://eurovision.tv/event/malmo-2013,26,Ireland,Ryan Dolan,Only Love Survives,5,26
+2012,Baku,https://eurovision.tv/event/baku-2012,1,United Kingdom,Engelbert Humperdinck,Love Will Set You Free,12,25
+2012,Baku,https://eurovision.tv/event/baku-2012,2,Hungary,Compact Disco,Sound Of Our Hearts,19,24
+2012,Baku,https://eurovision.tv/event/baku-2012,3,Albania,Rona Nishliu,Suus,146,5
+2012,Baku,https://eurovision.tv/event/baku-2012,4,Lithuania,Donny Montell,Love Is Blind,70,14
+2012,Baku,https://eurovision.tv/event/baku-2012,5,Bosnia & Herzegovina,Maya Sar,Korake Ti Znam,55,18
+2012,Baku,https://eurovision.tv/event/baku-2012,6,Russia,Buranovskiye Babushki,Party For Everybody,259,2
+2012,Baku,https://eurovision.tv/event/baku-2012,7,Iceland,Greta Salóme & Jónsi,Never Forget,46,20
+2012,Baku,https://eurovision.tv/event/baku-2012,8,Cyprus,Ivi Adamou,La La Love,65,16
+2012,Baku,https://eurovision.tv/event/baku-2012,9,France,Anggun,Echo (You And I),21,22
+2012,Baku,https://eurovision.tv/event/baku-2012,10,Italy,Nina Zilli,L'Amore È Femmina (Out Of Love),101,9
+2012,Baku,https://eurovision.tv/event/baku-2012,11,Estonia,Ott Lepland,Kuula,120,6
+2012,Baku,https://eurovision.tv/event/baku-2012,12,Norway,Tooji,Stay,7,26
+2012,Baku,https://eurovision.tv/event/baku-2012,13,Azerbaijan,Sabina Babayeva,When The Music Dies,150,4
+2012,Baku,https://eurovision.tv/event/baku-2012,14,Romania,Mandinga,Zaleilah,71,12
+2012,Baku,https://eurovision.tv/event/baku-2012,15,Denmark,Soluna Samay,Should've Known Better,21,23
+2012,Baku,https://eurovision.tv/event/baku-2012,16,Greece,Eleftheria Eleftheriou,Aphrodisiac,64,17
+2012,Baku,https://eurovision.tv/event/baku-2012,17,Sweden,Loreen,Euphoria,372,1
+2012,Baku,https://eurovision.tv/event/baku-2012,18,Turkey,Can Bonomo,Love Me Back,112,7
+2012,Baku,https://eurovision.tv/event/baku-2012,19,Spain,Pastora Soler,Quédate Conmigo (Stay With Me),97,10
+2012,Baku,https://eurovision.tv/event/baku-2012,20,Germany,Roman Lob,Standing Still,110,8
+2012,Baku,https://eurovision.tv/event/baku-2012,21,Malta,Kurt Calleja,This Is The Night,41,21
+2012,Baku,https://eurovision.tv/event/baku-2012,22,North Macedonia,Kaliopi,Crno I Belo,71,13
+2012,Baku,https://eurovision.tv/event/baku-2012,23,Ireland,Jedward,Waterline,46,19
+2012,Baku,https://eurovision.tv/event/baku-2012,24,Serbia,Željko Joksimović,Nije Ljubav Stvar,214,3
+2012,Baku,https://eurovision.tv/event/baku-2012,25,Ukraine,Gaitana,Be My Guest,65,15
+2012,Baku,https://eurovision.tv/event/baku-2012,26,Moldova,Pasha Parfeny,Lăutar,81,11
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,1,Finland,Paradise Oskar,Da Da Dam,57,21
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,2,Bosnia & Herzegovina,Dino Merlin,Love In Rewind,125,6
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,3,Denmark,A Friend In London,New Tomorrow,134,5
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,4,Lithuania,Evelina Sašenko,C'est Ma Vie,63,19
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,5,Hungary,Kati Wolf,What About My Dreams?,53,22
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,6,Ireland,Jedward,Lipstick,119,8
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,7,Sweden,Eric Saade,Popular,185,3
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,8,Estonia,Getter Jaani,Rockefeller Street,44,24
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,9,Greece,Loucas Yiorkas feat. Stereo Mike,Watch My Dance,120,7
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,10,Russia,Alexej Vorobjov,Get You,77,16
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,11,France,Amaury Vassili,Sognu,82,15
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,12,Italy,Raphael Gualazzi,Madness Of Love,189,2
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,13,Switzerland,Anna Rossinelli,In Love For A While,19,25
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,14,United Kingdom,Blue,I Can,100,11
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,15,Moldova,Zdob și Zdub,So Lucky,97,12
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,16,Germany,Lena,Taken By A Stranger,107,10
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,17,Romania,Hotel FM,Change,77,17
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,18,Austria,Nadine Beiler,The Secret Is Love,64,18
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,19,Azerbaijan,Ell/Nikki,Running Scared,221,1
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,20,Slovenia,Maja Keuc,No One,96,13
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,21,Iceland,Sjonni's Friends,Coming Home,61,20
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,22,Spain,Lucía Pérez,Que Me Quiten Lo Bailao - They Can't Take The Fun Away From Me,50,23
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,23,Ukraine,Mika Newton,Angel,159,4
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,24,Serbia,Nina,Čaroban,85,14
+2011,Düsseldorf,https://eurovision.tv/event/dusseldorf-2011,25,Georgia,Eldrine,One More Day,110,9
+2010,Oslo,https://eurovision.tv/event/oslo-2010,1,Azerbaijan,Safura,Drip Drop,145,5
+2010,Oslo,https://eurovision.tv/event/oslo-2010,2,Spain,Daniel Diges,Algo Pequeñito (Something Tiny),68,15
+2010,Oslo,https://eurovision.tv/event/oslo-2010,3,Norway,Didrik Solli-Tangen,My Heart Is Yours,35,20
+2010,Oslo,https://eurovision.tv/event/oslo-2010,4,Moldova,Sunstroke Project & Olia Tira,Run Away,27,22
+2010,Oslo,https://eurovision.tv/event/oslo-2010,5,Cyprus,Jon Lilygreen & The Islanders,Life Looks Better In Spring,27,21
+2010,Oslo,https://eurovision.tv/event/oslo-2010,6,Bosnia & Herzegovina,Vukašin Brajić,Thunder And Lightning,51,17
+2010,Oslo,https://eurovision.tv/event/oslo-2010,7,Belgium,Tom Dice,Me And My Guitar,143,6
+2010,Oslo,https://eurovision.tv/event/oslo-2010,8,Serbia,Milan Stanković,Ovo Je Balkan,72,13
+2010,Oslo,https://eurovision.tv/event/oslo-2010,9,Belarus,3+2,Butterflies,18,24
+2010,Oslo,https://eurovision.tv/event/oslo-2010,10,Ireland,Niamh Kavanagh,It's For You,25,23
+2010,Oslo,https://eurovision.tv/event/oslo-2010,11,Greece,Giorgos Alkaios & Friends,OPA,140,8
+2010,Oslo,https://eurovision.tv/event/oslo-2010,12,United Kingdom,Josh,That Sounds Good To Me,10,25
+2010,Oslo,https://eurovision.tv/event/oslo-2010,13,Georgia,Sofia Nizharadze,Shine,136,9
+2010,Oslo,https://eurovision.tv/event/oslo-2010,14,Turkey,maNga,We Could Be The Same,170,2
+2010,Oslo,https://eurovision.tv/event/oslo-2010,15,Albania,Juliana Pasha,It's All About You,62,16
+2010,Oslo,https://eurovision.tv/event/oslo-2010,16,Iceland,Hera Björk,Je Ne Sais Quoi,41,19
+2010,Oslo,https://eurovision.tv/event/oslo-2010,17,Ukraine,Alyosha,Sweet People,108,10
+2010,Oslo,https://eurovision.tv/event/oslo-2010,18,France,Jessy Matador,Allez Ola Olé,82,12
+2010,Oslo,https://eurovision.tv/event/oslo-2010,19,Romania,Paula Seling & Ovi,Playing With Fire,162,3
+2010,Oslo,https://eurovision.tv/event/oslo-2010,20,Russia,Peter Nalitch & Friends,Lost And Forgotten,90,11
+2010,Oslo,https://eurovision.tv/event/oslo-2010,21,Armenia,Eva Rivas,Apricot Stone,141,7
+2010,Oslo,https://eurovision.tv/event/oslo-2010,22,Germany,Lena,Satellite,246,1
+2010,Oslo,https://eurovision.tv/event/oslo-2010,23,Portugal,Filipa Azevedo,Há Dias Assim,43,18
+2010,Oslo,https://eurovision.tv/event/oslo-2010,24,Israel,Harel Skaat,Milim,71,14
+2010,Oslo,https://eurovision.tv/event/oslo-2010,25,Denmark,Chanée & N'evergreen,In A Moment Like This,149,4
+2009,Moscow,https://eurovision.tv/event/moscow-2009,1,Lithuania,Sasha Son,Love,23,23
+2009,Moscow,https://eurovision.tv/event/moscow-2009,2,Israel,Noa & Mira Awad,There Must Be Another Way,53,16
+2009,Moscow,https://eurovision.tv/event/moscow-2009,3,France,Patricia Kaas,Et S'il Fallait Le Faire,107,8
+2009,Moscow,https://eurovision.tv/event/moscow-2009,4,Sweden,Malena Ernman,La Voix,33,21
+2009,Moscow,https://eurovision.tv/event/moscow-2009,5,Croatia,Igor Cukrov feat. Andrea,Lijepa Tena,45,18
+2009,Moscow,https://eurovision.tv/event/moscow-2009,6,Portugal,Flor-de-lis,Todas As Ruas Do Amor,57,15
+2009,Moscow,https://eurovision.tv/event/moscow-2009,7,Iceland,Yohanna,Is It True?,218,2
+2009,Moscow,https://eurovision.tv/event/moscow-2009,8,Greece,Sakis Rouvas,This Is Our Night,120,7
+2009,Moscow,https://eurovision.tv/event/moscow-2009,9,Armenia,Inga & Anush,Jan Jan,92,10
+2009,Moscow,https://eurovision.tv/event/moscow-2009,10,Russia,Anastasia Prikhodko,Mamo,91,11
+2009,Moscow,https://eurovision.tv/event/moscow-2009,11,Azerbaijan,AySel & Arash,Always,207,3
+2009,Moscow,https://eurovision.tv/event/moscow-2009,12,Bosnia & Herzegovina,Regina,Bistra Voda,106,9
+2009,Moscow,https://eurovision.tv/event/moscow-2009,13,Moldova,Nelly Ciobanu,Hora Din Moldova,69,14
+2009,Moscow,https://eurovision.tv/event/moscow-2009,14,Malta,Chiara,What If We,31,22
+2009,Moscow,https://eurovision.tv/event/moscow-2009,15,Estonia,Urban Symphony,Rändajad,129,6
+2009,Moscow,https://eurovision.tv/event/moscow-2009,16,Denmark,Brinck,Believe Again,74,13
+2009,Moscow,https://eurovision.tv/event/moscow-2009,17,Germany,Alex Swings Oscar Sings!,Miss Kiss Kiss Bang,35,20
+2009,Moscow,https://eurovision.tv/event/moscow-2009,18,Turkey,Hadise,Düm Tek Tek,177,4
+2009,Moscow,https://eurovision.tv/event/moscow-2009,19,Albania,Kejsi Tola,Carry Me In Your Dreams,48,17
+2009,Moscow,https://eurovision.tv/event/moscow-2009,20,Norway,Alexander Rybak,Fairytale,387,1
+2009,Moscow,https://eurovision.tv/event/moscow-2009,21,Ukraine,Svetlana Loboda,Be my Valentine! (Anti-crisis Girl),76,12
+2009,Moscow,https://eurovision.tv/event/moscow-2009,22,Romania,Elena,The Balkan Girls,40,19
+2009,Moscow,https://eurovision.tv/event/moscow-2009,23,United Kingdom,Jade Ewen,It's My Time,173,5
+2009,Moscow,https://eurovision.tv/event/moscow-2009,24,Finland,Waldo's People,Lose Control,22,25
+2009,Moscow,https://eurovision.tv/event/moscow-2009,25,Spain,Soraya,La Noche Es Para Mí (The Night Is For Me),23,24
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,1,Romania,Nico & Vlad,Pe-o Margine De Lume,45,20
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,2,United Kingdom,Andy Abraham,Even If,14,25
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,3,Albania,Olta Boka,Zemrën E Lamë Peng,55,17
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,4,Germany,No Angels,Disappear,14,23
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,5,Armenia,Sirusho,"Qele, Qele",199,4
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,6,Bosnia & Herzegovina,Laka,Pokušaj,110,10
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,7,Israel,Boaz,The Fire In Your Eyes,124,9
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,8,Finland,Teräsbetoni,Missä Miehet Ratsastaa,35,22
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,9,Croatia,Kraljevi Ulice & 75 Cents,Romanca,44,21
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,10,Poland,Isis Gee,For Life,14,24
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,11,Iceland,Euroband,This Is My Life,64,14
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,12,Turkey,Mor ve Ötesi,Deli,138,7
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,13,Portugal,Vânia Fernandes,Senhora Do Mar (Negras Águas),69,13
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,14,Latvia,Pirates Of The Sea,Wolves Of The Sea,83,12
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,15,Sweden,Charlotte Perrelli,Hero,47,18
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,16,Denmark,Simon Mathew,All Night Long,60,15
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,17,Georgia,Diana Gurtskaya,Peace Will Come,83,11
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,18,Ukraine,Ani Lorak,Shady Lady,230,2
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,19,France,Sébastien Tellier,Divine,47,19
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,20,Azerbaijan,Elnur & Samir,Day After Day,132,8
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,21,Greece,Kalomira,Secret Combination,218,3
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,22,Spain,Rodolfo Chikilicuatre,Baila El Chiki Chiki,55,16
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,23,Serbia,Jelena Tomašević feat. Bora Dugic,Oro,160,6
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,24,Russia,Dima Bilan,Believe,272,1
+2008,Belgrade,https://eurovision.tv/event/belgrade-2008,25,Norway,Maria,Hold On Be Strong,182,5
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,1,Bosnia & Herzegovina,Marija Sestic,Rijeka Bez Imena,106,11
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,2,Spain,NASH,I Love You Mi Vida,43,20
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,3,Belarus,Dmitry Koldun,Work Your Magic,145,6
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,4,Ireland,Dervish,They Can't Stop The Spring,5,24
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,5,Finland,Hanna Pakarinen,Leave Me Alone,53,17
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,6,North Macedonia,Karolina,Mojot Svet,73,14
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,7,Slovenia,Alenka Gotar,Cvet Z Juga,66,15
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,8,Hungary,Magdi Rúzsa,Unsubstantial Blues,128,9
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,9,Lithuania,4Fun,Love Or Leave,28,21
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,10,Greece,Sarbel,Yassou Maria,139,7
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,11,Georgia,Sopho,Visionary Dream,97,12
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,12,Sweden,The Ark,The Worrying Kind,51,18
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,13,France,Les Fatals Picards,L'amour à La Française,19,22
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,14,Latvia,Bonaparti.lv,Questa Notte,54,16
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,15,Russia,Serebro,Song # 1,207,3
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,16,Germany,Roger Cicero,Frauen Regieren Die Welt,49,19
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,17,Serbia,Marija Šerifović,Molitva,268,1
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,18,Ukraine,Verka Serduchka,Dancing Lasha Tumbai,235,2
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,19,United Kingdom,Scooch,Flying The Flag (for You),19,22
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,20,Romania,Todomondo,"Liubi, Liubi, I Love You",84,13
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,21,Bulgaria,Elitsa Todorova & Stoyan Yankulov,Water,157,5
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,22,Turkey,Kenan Dogulu,Shake It Up Shekerim,163,4
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,23,Armenia,Hayko,Anytime You Need,138,8
+2007,Helsinki,https://eurovision.tv/event/helsinki-2007,24,Moldova,Natalia Barbu,Fight,109,10
+2006,Athens,https://eurovision.tv/event/athens-2006,1,Switzerland,Six4One,If We All Give A Little,30,16
+2006,Athens,https://eurovision.tv/event/athens-2006,2,Moldova,Arsenium & Natalia Gordienko,Loca,22,20
+2006,Athens,https://eurovision.tv/event/athens-2006,3,Israel,Eddie Butler,Ze Hazman,4,23
+2006,Athens,https://eurovision.tv/event/athens-2006,4,Latvia,Cosmos,I Hear Your Heart,30,16
+2006,Athens,https://eurovision.tv/event/athens-2006,5,Norway,Christine Guldbrandsen,Alvedansen,36,14
+2006,Athens,https://eurovision.tv/event/athens-2006,6,Spain,Las Ketchup,Bloody Mary,18,21
+2006,Athens,https://eurovision.tv/event/athens-2006,7,Malta,Fabrizio Faniello,I Do,1,24
+2006,Athens,https://eurovision.tv/event/athens-2006,8,Germany,Texas Lightning,"No, No, Never",36,14
+2006,Athens,https://eurovision.tv/event/athens-2006,9,Denmark,Sidsel Ben Semmane,Twist Of Love,26,18
+2006,Athens,https://eurovision.tv/event/athens-2006,10,Russia,Dima Bilan,Never Let You Go,248,2
+2006,Athens,https://eurovision.tv/event/athens-2006,11,North Macedonia,Elena Risteska,Ninanajna,56,12
+2006,Athens,https://eurovision.tv/event/athens-2006,12,Romania,Mihai Traistariu,Tornero,172,4
+2006,Athens,https://eurovision.tv/event/athens-2006,13,Bosnia & Herzegovina,Hari Mata Hari,Lejla,229,3
+2006,Athens,https://eurovision.tv/event/athens-2006,14,Lithuania,LT United,We Are The Winners,162,6
+2006,Athens,https://eurovision.tv/event/athens-2006,15,United Kingdom,Daz Sampson,Teenage Life,25,19
+2006,Athens,https://eurovision.tv/event/athens-2006,16,Greece,Anna Vissi,Everything,128,9
+2006,Athens,https://eurovision.tv/event/athens-2006,17,Finland,Lordi,Hard Rock Hallelujah,292,1
+2006,Athens,https://eurovision.tv/event/athens-2006,18,Ukraine,Tina Karol,Show Me Your Love,145,7
+2006,Athens,https://eurovision.tv/event/athens-2006,19,France,Virginie Pouchin,Il était Temps,5,22
+2006,Athens,https://eurovision.tv/event/athens-2006,20,Croatia,Severina,Moja Štikla,56,12
+2006,Athens,https://eurovision.tv/event/athens-2006,21,Ireland,Brian Kennedy,Every Song Is A Cry For Love,93,10
+2006,Athens,https://eurovision.tv/event/athens-2006,22,Sweden,Carola,Invincible,170,5
+2006,Athens,https://eurovision.tv/event/athens-2006,23,Turkey,Sibel Tüzün,Superstar,91,11
+2006,Athens,https://eurovision.tv/event/athens-2006,24,Armenia,André,Without Your Love,129,8
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,1,Hungary,NOX,Forogj Világ,97,12
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,2,United Kingdom,Javine,Touch My Fire,18,22
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,3,Malta,Chiara,Angel,192,2
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,4,Romania,Luminita Anghel & Sistem,Let Me Try,158,3
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,5,Norway,Wig Wam,In My Dreams,125,9
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,6,Turkey,Gülseren,Rimi Rimi Ley,92,13
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,7,Moldova,Zdob si Zdub,Boonika Bate Toba,148,6
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,8,Albania,Ledina Celo,Tomorrow I Go,53,16
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,9,Cyprus,Constantinos Christoforou,Ela Ela,46,18
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,10,Spain,Son de sol,Brujería,28,21
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,11,Israel,Shiri Maymon,Hasheket Shenish'ar,154,4
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,12,Serbia & Montenegro,No Name,Zauvijek Moja,137,7
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,13,Denmark,Jakob Sveistrup,Talking To You,125,9
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,14,Sweden,Martin Stenmarck,Las Vegas,30,19
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,15,North Macedonia,Martin Vucic,Make My Day,52,17
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,16,Ukraine,Greenjolly,Razom Nas Bahato,30,19
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,17,Germany,Gracia,Run & Hide,4,24
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,18,Croatia,Boris Novkovic feat. Lado members,Vukovi Umiru Sami,115,11
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,19,Greece,Helena Paparizou,My Number One,230,1
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,20,Russia,Natalia Podolskaya,Nobody Hurt No One,57,15
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,21,Bosnia & Herzegovina,Feminnem,Call Me,79,14
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,22,Switzerland,Vanilla Ninja,Cool Vibes,128,8
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,23,Latvia,Walter & Kazha,The War Is Not Over,153,5
+2005,Kyiv,https://eurovision.tv/event/kyiv-2005,24,France,Ortal,Chacun Pense à Soi,11,23
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,1,Spain,Ramón,Para Llenarme De Ti,87,10
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,2,Austria,Tie Break,Du Bist,9,21
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,3,Norway,Knut Anders Sørum,High,3,24
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,4,France,Jonatan Cerrada,A Chaque Pas,40,15
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,5,Serbia & Montenegro,Željko Joksimović,Lane Moje,263,2
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,6,Malta,Julie & Ludwig,On Again... Off Again,50,12
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,7,The Netherlands,Re-union,Without You,11,20
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,8,Germany,Max (Maximilian Mutzke),Can't Wait Until Tonight,93,8
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,9,Albania,Anjeza Shahini,The Image Of You,106,7
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,10,Ukraine,Ruslana,Wild Dances,280,1
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,11,Croatia,Ivan Mikulic,You Are The Only One,50,12
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,12,Bosnia & Herzegovina,Deen,In The Disco,91,9
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,13,Belgium,Xandee,1 Life,7,22
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,14,Russia,Julia Savicheva,Believe Me,67,11
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,15,North Macedonia,Tose Proeski,Life,47,14
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,16,Greece,Sakis Rouvas,Shake It,252,3
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,17,Iceland,Jónsi,Heaven,16,19
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,18,Ireland,Chris Doran,If My World Stopped Turning,7,22
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,19,Poland,Blue Cafe,Love Song,27,17
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,20,United Kingdom,James Fox,Hold On To Our Love,29,16
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,21,Cyprus,Lisa Andreas,Stronger Every Minute,170,5
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,22,Turkey,Athena,For Real,195,4
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,23,Romania,Sanda Ladosi,I Admit,18,18
+2004,Istanbul,https://eurovision.tv/event/istanbul-2004,24,Sweden,Lena Philipsson,It Hurts,170,5
+2003,Riga,https://eurovision.tv/event/riga-2003,1,Iceland,Birgitta,Open Your Heart,81,8
+2003,Riga,https://eurovision.tv/event/riga-2003,2,Austria,Alf Poier,Weil Der Mensch Zählt,101,6
+2003,Riga,https://eurovision.tv/event/riga-2003,3,Ireland,Mickey Harte,Weve Got The World,53,11
+2003,Riga,https://eurovision.tv/event/riga-2003,4,Turkey,Sertab Erener,Everyway That I Can,167,1
+2003,Riga,https://eurovision.tv/event/riga-2003,5,Malta,Lynn Chirchop,To Dream Again,4,25
+2003,Riga,https://eurovision.tv/event/riga-2003,6,Bosnia & Herzegovina,Mija Martina,Ne Brini,27,16
+2003,Riga,https://eurovision.tv/event/riga-2003,7,Portugal,Rita Guerra,Deixa-me Sonhar,13,22
+2003,Riga,https://eurovision.tv/event/riga-2003,8,Croatia,Claudia Beni,Vie Nisam Tvoja,29,15
+2003,Riga,https://eurovision.tv/event/riga-2003,9,Cyprus,Stelios Constantas,Feeling Alive,15,20
+2003,Riga,https://eurovision.tv/event/riga-2003,10,Germany,Lou,Let's Get Happy,53,11
+2003,Riga,https://eurovision.tv/event/riga-2003,11,Russia,t.A.T.u.,"Ne Ver, Ne Boisia",164,3
+2003,Riga,https://eurovision.tv/event/riga-2003,12,Spain,Beth,Dime,81,8
+2003,Riga,https://eurovision.tv/event/riga-2003,13,Israel,Lior Narkis,Words For Love,17,19
+2003,Riga,https://eurovision.tv/event/riga-2003,14,The Netherlands,Esther Hart,One More Night,45,13
+2003,Riga,https://eurovision.tv/event/riga-2003,15,United Kingdom,Jemini,Cry Baby,NA,26
+2003,Riga,https://eurovision.tv/event/riga-2003,16,Ukraine,Olexandr,Hasta La Vista,30,14
+2003,Riga,https://eurovision.tv/event/riga-2003,17,Greece,Mando,Never Let You Go,25,17
+2003,Riga,https://eurovision.tv/event/riga-2003,18,Norway,Jostein Hasselgård,I'm Not Afraid To Move On,123,4
+2003,Riga,https://eurovision.tv/event/riga-2003,19,France,Louisa Baileche,Monts Et Merveilles,19,18
+2003,Riga,https://eurovision.tv/event/riga-2003,20,Poland,Ich Troje,Keine Grenzen - Zadnych Granic,90,7
+2003,Riga,https://eurovision.tv/event/riga-2003,21,Latvia,F.L.Y.,Hello From Mars,5,24
+2003,Riga,https://eurovision.tv/event/riga-2003,22,Belgium,Urban Trad,Sanomi,165,2
+2003,Riga,https://eurovision.tv/event/riga-2003,23,Estonia,Ruffus,Eighties Coming Back,14,21
+2003,Riga,https://eurovision.tv/event/riga-2003,24,Romania,Nicola,Dont Break My Heart,73,10
+2003,Riga,https://eurovision.tv/event/riga-2003,25,Sweden,Fame,Give Me Your Love,107,5
+2003,Riga,https://eurovision.tv/event/riga-2003,26,Slovenia,Karmen,Nanana,7,23
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,1,Cyprus,One,Gimme,85,6
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,2,United Kingdom,Jessica Garlick,Come Back,111,3
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,3,Austria,Manuel Ortega,Say A Word,26,18
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,4,Greece,Michalis Rakintzis,S.A.G.A.P.O.,27,17
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,5,Spain,Rosa,Europe's Living A Celebration,81,7
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,6,Croatia,Vesna Pisarovic,Everything I Want,44,11
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,7,Russia,Prime minister,Northern Girl,55,10
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,8,Estonia,Sahléne,Runaway,111,3
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,9,North Macedonia,Karolina,Od Nas Zavisi,25,19
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,10,Israel,Sarit Hadad,Light A Candle,37,12
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,11,Switzerland,Francine Jordi,Dans Le Jardin De Mon Âme,15,22
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,12,Sweden,Afro-dite,Never Let It Go,72,8
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,13,Finland,Laura,Addicted To You,24,20
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,14,Denmark,Malene,Tell Me Who You Are,7,24
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,15,Bosnia & Herzegovina,Maja,Na Jastuku Za Dvoje,33,13
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,16,Belgium,Sergio & the Ladies,Sister,33,13
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,17,France,Sandrine François,Il Faut Du Temps,104,5
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,18,Germany,Corinna May,I Can't Live Without Music,17,21
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,19,Turkey,Buket Bengisu & Saphire,Leylaklar Soldu Kalbinde,29,16
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,20,Malta,Ira Losco,7th Wonder,164,2
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,21,Romania,Monica Anghel & Marcel Pavel,Tell Me Why,71,9
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,22,Slovenia,Sestre,Samo Ljubezen,33,13
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,23,Latvia,Marie N,I Wanna,176,1
+2002,Tallinn,https://eurovision.tv/event/tallinn-2002,24,Lithuania,Aivaras,Happy You,12,23
+2001,Copenhagen,https://eurovision.tv/event/copenhagen-2001,1,The Netherlands,Michelle,Out On My Own,16,18
+2001,Copenhagen,https://eurovision.tv/event/copenhagen-2001,2,Iceland,TwoTricky,Angel,3,22
+2001,Copenhagen,https://eurovision.tv/event/copenhagen-2001,3,Bosnia & Herzegovina,Nino,Hano,29,14
+2001,Copenhagen,https://eurovision.tv/event/copenhagen-2001,4,Norway,Haldor Lægreid,On My Own,3,22
+2001,Copenhagen,https://eurovision.tv/event/copenhagen-2001,5,Israel,Tal Sondak,Ein Davar,25,16
+2001,Copenhagen,https://eurovision.tv/event/copenhagen-2001,6,Russia,Mumiy troll,Lady Alpine Blue,37,12
+2001,Copenhagen,https://eurovision.tv/event/copenhagen-2001,7,Sweden,Friends,Listen To Your Heartbeat,100,5
+2001,Copenhagen,https://eurovision.tv/event/copenhagen-2001,8,Lithuania,Skamp,You Got Style,35,13
+2001,Copenhagen,https://eurovision.tv/event/copenhagen-2001,9,Latvia,Arnis Mednis,Too Much,16,18
+2001,Copenhagen,https://eurovision.tv/event/copenhagen-2001,10,Croatia,Vanna,Strings Of My Heart,42,10
+2001,Copenhagen,https://eurovision.tv/event/copenhagen-2001,11,Portugal,MTM,Só Sei Ser Feliz Assim,18,17
+2001,Copenhagen,https://eurovision.tv/event/copenhagen-2001,12,Ireland,Gary O'Shaughnessy,Without Your Love,6,21
+2001,Copenhagen,https://eurovision.tv/event/copenhagen-2001,13,Spain,David Civera,Dile Que La Quiero,76,6
+2001,Copenhagen,https://eurovision.tv/event/copenhagen-2001,14,France,Natasha Saint-Pier,Je N'ai Que Mon âme,142,4
+2001,Copenhagen,https://eurovision.tv/event/copenhagen-2001,15,Turkey,Sedat Yüce,Sevgiliye Son,41,11
+2001,Copenhagen,https://eurovision.tv/event/copenhagen-2001,16,United Kingdom,Lindsay D.,No Dream Impossible,28,15
+2001,Copenhagen,https://eurovision.tv/event/copenhagen-2001,17,Slovenia,Nua Derenda,Energy,70,7
+2001,Copenhagen,https://eurovision.tv/event/copenhagen-2001,18,Poland,Piasek,2 Long,11,20
+2001,Copenhagen,https://eurovision.tv/event/copenhagen-2001,19,Germany,Michelle,Wer Liebe Lebt,66,8
+2001,Copenhagen,https://eurovision.tv/event/copenhagen-2001,20,Estonia,"Tanel Padar, Dave Benton & 2XL",Everybody,198,1
+2001,Copenhagen,https://eurovision.tv/event/copenhagen-2001,21,Malta,Fabrizio Faniello,Another Summer Night,48,9
+2001,Copenhagen,https://eurovision.tv/event/copenhagen-2001,22,Greece,Antique,Die For You,147,3
+2001,Copenhagen,https://eurovision.tv/event/copenhagen-2001,23,Denmark,Rollo & King,Never Ever Let You Go,177,2
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,1,Israel,Ping Pong,Sa'me'akh,7,22
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,2,The Netherlands,Linda Wagenmakers,No Goodbyes,40,13
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,3,United Kingdom,Nicki French,Don't Play That Song Again,28,16
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,4,Estonia,Ines,Once In A Lifetime,98,4
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,5,France,Sofia Mestari,On Aura Le Ciel,5,23
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,6,Romania,Taxi,The Moon,25,17
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,7,Malta,Claudette Pace,Desire,73,8
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,8,Norway,Charmed,My Heart Goes Boom,57,11
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,9,Russia,Alsou,Solo,155,2
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,10,Belgium,Nathalie Sorce,Envie De Vivre,2,24
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,11,Cyprus,Voice,Nomiza,8,21
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,12,Iceland,Einer Augúst Víðisson en Telma Augústdóttir,Tell Me!,45,12
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,13,Spain,Serafín Zubiri,Colgado De Un Sueño,18,18
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,14,Denmark,Olsen brothers,Fly On The Wings Of Love,195,1
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,15,Germany,Stefan Raab,Wadde Hadde Dudde Da,96,5
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,16,Switzerland,Jane Bogaert,La Vita Cos'è?,14,20
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,17,Croatia,Goran Karan,Kada Zaspu Andeli,70,9
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,18,Sweden,Roger Pontare,When Spirits Are Calling My Name,88,7
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,19,North Macedonia,XXL,100\% Te Ljubam,29,15
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,20,Finland,Nina Åström,A Little Bit,18,18
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,21,Latvia,BrainStorm,My Star,136,3
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,22,Turkey,Pinar Ayhan & S.O.S. band,Yorgunum Anla,59,10
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,23,Ireland,Eamonn Toal,Millennium Of Love,92,6
+2000,Stockholm,https://eurovision.tv/event/stockholm-2000,24,Austria,The rounder girls,All To You,34,14
+1999,Jerusalem,https://eurovision.tv/event/jerusalem-1999,1,Lithuania,Aiste Smilgeviciute,Strazdas,13,20
+1999,Jerusalem,https://eurovision.tv/event/jerusalem-1999,2,Belgium,Vanessa Chinitor,Like The Wind,38,12
+1999,Jerusalem,https://eurovision.tv/event/jerusalem-1999,3,Spain,Lydia,No Quiero Escuchar,1,23
+1999,Jerusalem,https://eurovision.tv/event/jerusalem-1999,4,Croatia,Doris Dragovic,Marija Magdalena,118,4
+1999,Jerusalem,https://eurovision.tv/event/jerusalem-1999,5,United Kingdom,Precious,Say It Again,38,12
+1999,Jerusalem,https://eurovision.tv/event/jerusalem-1999,6,Slovenia,Darja Svajger,For A Thousand Years,50,11
+1999,Jerusalem,https://eurovision.tv/event/jerusalem-1999,7,Turkey,Tuba Önal & Grup Mystik,Dön Artik,21,16
+1999,Jerusalem,https://eurovision.tv/event/jerusalem-1999,8,Norway,Stig André Van Eijk,Living My Life Without You,35,14
+1999,Jerusalem,https://eurovision.tv/event/jerusalem-1999,9,Denmark,Trine Jepsen & Michael Teschl,This Time (i Mean It),71,8
+1999,Jerusalem,https://eurovision.tv/event/jerusalem-1999,10,France,Nayah,Je Veux Donner Ma Voix,14,19
+1999,Jerusalem,https://eurovision.tv/event/jerusalem-1999,11,The Netherlands,Marlayne,One Good Reason,71,8
+1999,Jerusalem,https://eurovision.tv/event/jerusalem-1999,12,Poland,Mietek (Mieczyslaw) Szczesniak,Przytul Mnie Mocno,17,18
+1999,Jerusalem,https://eurovision.tv/event/jerusalem-1999,13,Iceland,Selma Björnsdóttir,All Out Of Luck,146,2
+1999,Jerusalem,https://eurovision.tv/event/jerusalem-1999,14,Cyprus,Marlain Angelidou,Tha'nai Erotas,2,22
+1999,Jerusalem,https://eurovision.tv/event/jerusalem-1999,15,Sweden,Charlotte Nilsson,Take Me To Your Heaven,163,1
+1999,Jerusalem,https://eurovision.tv/event/jerusalem-1999,16,Portugal,Rui Bandeira,Como Tudo Começou,12,21
+1999,Jerusalem,https://eurovision.tv/event/jerusalem-1999,17,Ireland,The Mullan's,When You Need Me,18,17
+1999,Jerusalem,https://eurovision.tv/event/jerusalem-1999,18,Austria,Bobbie Singer,Reflection,65,10
+1999,Jerusalem,https://eurovision.tv/event/jerusalem-1999,19,Israel,Eden,Yom Huledeth,93,5
+1999,Jerusalem,https://eurovision.tv/event/jerusalem-1999,20,Malta,Times 3,Believe 'n Peace,32,15
+1999,Jerusalem,https://eurovision.tv/event/jerusalem-1999,21,Germany,Sürpriz,Reise Nach Jerusalem - Kudüs'e Seyahat,140,3
+1999,Jerusalem,https://eurovision.tv/event/jerusalem-1999,22,Bosnia & Herzegovina,Dino and Beatrice,Putnici,86,7
+1999,Jerusalem,https://eurovision.tv/event/jerusalem-1999,23,Estonia,Evelin Samuel and Camille,Diamond Of Night,90,6
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,1,Croatia,Danijela,Neka Mi Ne Svane,131,5
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,2,Greece,Dionysia and Thalassa group,Mia Krifi Evaisthissia,12,20
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,3,France,Marie-Line,Où Aller,3,24
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,4,Spain,Mikel Herzog,¿Qué Voy A Hacer Sin Ti?,21,16
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,5,Switzerland,Gunvor,Lass Ihn,NA,25
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,6,Slovakia,Katarína Hasprová,Modlitba,8,21
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,7,Poland,Sixteen,To Takie Proste,19,17
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,8,Israel,Dana International,Diva,172,1
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,9,Germany,Guildo Horn,Guildo Hat Euch Lieb,86,7
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,10,Malta,Chiara,The One That I Love,165,3
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,11,Hungary,Charlie,A Holnap Már Ném Lesz Szomorú,4,23
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,12,Slovenia,Vili Resnik,Naj Bogovi Sliijo,17,18
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,13,Ireland,Dawn,Is Always Over Now?,64,9
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,14,Portugal,Alma Lusa,Se Eu Te Pudesse Abraçar,36,12
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,15,Romania,Malina Olinescu,Eu Cred,6,22
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,16,United Kingdom,Imaani,Where Are You?,166,2
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,17,Cyprus,Michael Hajiyanni,Genesis,37,11
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,18,The Netherlands,Edsilia Rombley,Hemel En Aarde,150,4
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,19,Sweden,Jill Johnson,Kärleken är,53,10
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,20,Belgium,Mélanie Cohl,Dis Oui,122,6
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,21,Finland,Edea,Aava,22,15
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,22,Norway,Lars A. Fredriksen,Alltid Sommer,79,8
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,23,Estonia,Koit Toome,Mere Lapsed,36,12
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,24,Turkey,Tüzmen,Unutamazsin,25,14
+1998,Birmingham,https://eurovision.tv/event/birmingham-1998,25,North Macedonia,Vlado Janevski,"Ne Zori, Zoro",16,19
+1997,Dublin,https://eurovision.tv/event/dublin-1997,1,Cyprus,Chara and Andreas Konstantinou,Mana Mou,98,5
+1997,Dublin,https://eurovision.tv/event/dublin-1997,2,Turkey,Sebnem Paker and Group Etnic,Dinle,121,3
+1997,Dublin,https://eurovision.tv/event/dublin-1997,3,Norway,Tor Endresen,San Francisco,NA,24
+1997,Dublin,https://eurovision.tv/event/dublin-1997,4,Austria,Bettina Soriat,One Step,12,21
+1997,Dublin,https://eurovision.tv/event/dublin-1997,5,Ireland,Marc Roberts,Mysterious Woman,157,2
+1997,Dublin,https://eurovision.tv/event/dublin-1997,6,Slovenia,Tanja Ribic,Zbudi Se,60,10
+1997,Dublin,https://eurovision.tv/event/dublin-1997,7,Switzerland,Barbara Berta,Dentro Di Me,5,22
+1997,Dublin,https://eurovision.tv/event/dublin-1997,8,The Netherlands,Mrs. Einstein,Niemand Heeft Nog Tijd,5,22
+1997,Dublin,https://eurovision.tv/event/dublin-1997,9,Italy,Jalisse,Fiumi Di Parole,114,4
+1997,Dublin,https://eurovision.tv/event/dublin-1997,10,Spain,Marcos Llunas,Sin Rencor,96,6
+1997,Dublin,https://eurovision.tv/event/dublin-1997,11,Germany,Bianca Shomburg,Zeit,22,18
+1997,Dublin,https://eurovision.tv/event/dublin-1997,12,Poland,Anna Maria Jopek,Ale Jestem,54,11
+1997,Dublin,https://eurovision.tv/event/dublin-1997,13,Estonia,Maarja-Liis Ilus,Keelatud Maa,82,8
+1997,Dublin,https://eurovision.tv/event/dublin-1997,14,Bosnia & Herzegovina,Alma Cardzic,Goodbye,22,18
+1997,Dublin,https://eurovision.tv/event/dublin-1997,15,Portugal,Célia Lawson,Antes Do Adeus,NA,24
+1997,Dublin,https://eurovision.tv/event/dublin-1997,16,Sweden,Blond,Bara Hon älskar Mig,36,14
+1997,Dublin,https://eurovision.tv/event/dublin-1997,17,Greece,Marianna Zorba,Horepse,39,12
+1997,Dublin,https://eurovision.tv/event/dublin-1997,18,Malta,Debbie Scerri,Let Me Fly,66,9
+1997,Dublin,https://eurovision.tv/event/dublin-1997,19,Hungary,VIP,"Miert Kell, Hogy Elmenj?",39,12
+1997,Dublin,https://eurovision.tv/event/dublin-1997,20,Russia,Alla Pugachova,Primadonna,33,15
+1997,Dublin,https://eurovision.tv/event/dublin-1997,21,Denmark,Kølig Kaj,Stemmen I Mit Liv,25,16
+1997,Dublin,https://eurovision.tv/event/dublin-1997,22,France,Fanny,Sentiments Songes,95,7
+1997,Dublin,https://eurovision.tv/event/dublin-1997,23,Croatia,ENI,Probudi Me,24,17
+1997,Dublin,https://eurovision.tv/event/dublin-1997,24,United Kingdom,Katrina and The Waves,Love Shine A Light,227,1
+1997,Dublin,https://eurovision.tv/event/dublin-1997,25,Iceland,Paul Oscar,Minn Hinsti Dans,18,20
+1996,Oslo,https://eurovision.tv/event/oslo-1996,1,Turkey,Şebnem Paker,Besinçi Mevsim,57,12
+1996,Oslo,https://eurovision.tv/event/oslo-1996,2,United Kingdom,Gina G,Ooh...Aah...Just A Little Bit,77,8
+1996,Oslo,https://eurovision.tv/event/oslo-1996,3,Spain,Antonio Carbonell,"¡Ay, Qué Deseo!",17,20
+1996,Oslo,https://eurovision.tv/event/oslo-1996,4,Portugal,Lúcia Moniz,O Meu Coração Não Tem Cor,92,6
+1996,Oslo,https://eurovision.tv/event/oslo-1996,5,Cyprus,Constantinos,Móno Gia Más,72,9
+1996,Oslo,https://eurovision.tv/event/oslo-1996,6,Malta,Miriam Christine,In A Woman's Heart,68,10
+1996,Oslo,https://eurovision.tv/event/oslo-1996,7,Croatia,Maja Blagdan,Sveta Ljubav,98,4
+1996,Oslo,https://eurovision.tv/event/oslo-1996,8,Austria,George Nußbaumer,Weil's Dr Guat Got,68,10
+1996,Oslo,https://eurovision.tv/event/oslo-1996,9,Switzerland,Cathy Leander,Mon Coeur L'aime,22,16
+1996,Oslo,https://eurovision.tv/event/oslo-1996,10,Greece,Marianna Efstratiou,Emis Forame To Himona Anixiatika,36,14
+1996,Oslo,https://eurovision.tv/event/oslo-1996,11,Estonia,Ivo Linna and Maarja-Liis Ilus,Kaelakee Hääl,94,5
+1996,Oslo,https://eurovision.tv/event/oslo-1996,12,Norway,Elisabeth Andreasson,I Evighet,114,2
+1996,Oslo,https://eurovision.tv/event/oslo-1996,13,France,Dan Ar Braz et l'Héritage des Celtes,Diwanit Bugale,18,19
+1996,Oslo,https://eurovision.tv/event/oslo-1996,14,Slovenia,Regina,Dan najlepših sanj,16,21
+1996,Oslo,https://eurovision.tv/event/oslo-1996,15,The Netherlands,Maxine and Franklin Brown,De Eerste Keer,78,7
+1996,Oslo,https://eurovision.tv/event/oslo-1996,16,Belgium,Lisa del Bo,Liefde Is Een Kaartspel,22,16
+1996,Oslo,https://eurovision.tv/event/oslo-1996,17,Ireland,Eimear Quinn,The Voice,162,1
+1996,Oslo,https://eurovision.tv/event/oslo-1996,18,Finland,Jasmine,Niin Kaunis On Taivas,9,23
+1996,Oslo,https://eurovision.tv/event/oslo-1996,19,Iceland,Anna Mjöll,Sjúbídú,51,13
+1996,Oslo,https://eurovision.tv/event/oslo-1996,20,Poland,Kasia Kowalska,Chce Znac Swój Grzech,31,15
+1996,Oslo,https://eurovision.tv/event/oslo-1996,21,Bosnia & Herzegovina,Amila Glamocak,Za Nau Ljubav,13,22
+1996,Oslo,https://eurovision.tv/event/oslo-1996,22,Slovakia,Marcel Palonder,Kým Nás Má,19,18
+1996,Oslo,https://eurovision.tv/event/oslo-1996,23,Sweden,One More Time,Den Vilda,100,3
+1995,Dublin,https://eurovision.tv/event/dublin-1995,1,Poland,Justyna,Sama,15,18
+1995,Dublin,https://eurovision.tv/event/dublin-1995,2,Ireland,Eddie Friel,Dreamin',44,14
+1995,Dublin,https://eurovision.tv/event/dublin-1995,3,Germany,Stone and Stone,Verliebt In Dich,1,23
+1995,Dublin,https://eurovision.tv/event/dublin-1995,4,Bosnia & Herzegovina,Davor Popovic,Dvadeset I Prvi Vijek,14,19
+1995,Dublin,https://eurovision.tv/event/dublin-1995,5,Norway,Secret Garden,Nocturne,148,1
+1995,Dublin,https://eurovision.tv/event/dublin-1995,6,Russia,Philipp Kirkorov,Kolybelnaya Dlya Vulkana,17,17
+1995,Dublin,https://eurovision.tv/event/dublin-1995,7,Iceland,Bó Halldórsson,Núna,31,15
+1995,Dublin,https://eurovision.tv/event/dublin-1995,8,Austria,Stella Jones,Die Welt Dreht Sich Verkehrt,67,13
+1995,Dublin,https://eurovision.tv/event/dublin-1995,9,Spain,Anabel Conde,Vuelve Conmigo,119,2
+1995,Dublin,https://eurovision.tv/event/dublin-1995,10,Turkey,Arzu Ece,Sev!,21,16
+1995,Dublin,https://eurovision.tv/event/dublin-1995,11,Croatia,Magazin and Lidija,Nostalgija,91,6
+1995,Dublin,https://eurovision.tv/event/dublin-1995,12,France,Nathalie Santamaria,Il Me Donne Rendez-vous,94,4
+1995,Dublin,https://eurovision.tv/event/dublin-1995,13,Hungary,Czaba Szigeti,Ùj Nèv Egy Règi Hàz Fàlan,3,22
+1995,Dublin,https://eurovision.tv/event/dublin-1995,14,Belgium,Frédéric Etherlinck,La Voix Est Libre,8,20
+1995,Dublin,https://eurovision.tv/event/dublin-1995,15,United Kingdom,Love City Groove,Love City Groove,76,10
+1995,Dublin,https://eurovision.tv/event/dublin-1995,16,Portugal,Tó Cruz,Baunilha E Chocolate,5,21
+1995,Dublin,https://eurovision.tv/event/dublin-1995,17,Cyprus,Alexandros Panayi,Sti Fotia,79,9
+1995,Dublin,https://eurovision.tv/event/dublin-1995,18,Sweden,Jan Johansen,Se På Mej,100,3
+1995,Dublin,https://eurovision.tv/event/dublin-1995,19,Denmark,Aud Wilken,Fra Mols Til Skagen,92,5
+1995,Dublin,https://eurovision.tv/event/dublin-1995,20,Slovenia,Darja Svajger,Prisluhni Mi,84,7
+1995,Dublin,https://eurovision.tv/event/dublin-1995,21,Israel,Liora,Amen,81,8
+1995,Dublin,https://eurovision.tv/event/dublin-1995,22,Malta,Mike Spiteri,Keep Me In Mind,76,10
+1995,Dublin,https://eurovision.tv/event/dublin-1995,23,Greece,Elina Constantopoulou,Pia Prossefchi,68,12
+1994,Dublin,https://eurovision.tv/event/dublin-1994,1,Sweden,Marie Bergman and Roger Pontare,Stjärnorna,48,13
+1994,Dublin,https://eurovision.tv/event/dublin-1994,2,Finland,CatCat,Bye Bye Baby,11,22
+1994,Dublin,https://eurovision.tv/event/dublin-1994,3,Ireland,Paul Harrington and Charlie McGettigan,Rock 'n' Roll Kids,226,1
+1994,Dublin,https://eurovision.tv/event/dublin-1994,4,Cyprus,Evridiki,Ime Anthropos Ke Ego,51,11
+1994,Dublin,https://eurovision.tv/event/dublin-1994,5,Iceland,Sigga,Nætur,49,12
+1994,Dublin,https://eurovision.tv/event/dublin-1994,6,United Kingdom,Frances Ruffelle,We Will Be Free (lonely Symphony),63,10
+1994,Dublin,https://eurovision.tv/event/dublin-1994,7,Croatia,Tony Cetinski,Nek'ti Bude Ljubav Sva,27,16
+1994,Dublin,https://eurovision.tv/event/dublin-1994,8,Portugal,Sara Tavares,Chamar A Música,73,8
+1994,Dublin,https://eurovision.tv/event/dublin-1994,9,Switzerland,Duilio,Sto Pregando,15,19
+1994,Dublin,https://eurovision.tv/event/dublin-1994,10,Estonia,Silvi Vrait,Nagu Merelaine,2,24
+1994,Dublin,https://eurovision.tv/event/dublin-1994,11,Romania,Dan Bittman,Dincolo De Nori,14,21
+1994,Dublin,https://eurovision.tv/event/dublin-1994,12,Malta,Moira Stafrace and Christopher Scicluna,More Than Love,97,5
+1994,Dublin,https://eurovision.tv/event/dublin-1994,13,The Netherlands,Willeke Alberti,Waar Is De Zon,4,23
+1994,Dublin,https://eurovision.tv/event/dublin-1994,14,Germany,MeKaDo,Wir Geben 'ne Party,128,3
+1994,Dublin,https://eurovision.tv/event/dublin-1994,15,Slovakia,Martin Durinda and Tublatanka,Nekovecná Piesen,15,19
+1994,Dublin,https://eurovision.tv/event/dublin-1994,16,Lithuania,Ovidijus Vyšniauskas,Lopšinė Mylimai,NA,25
+1994,Dublin,https://eurovision.tv/event/dublin-1994,17,Norway,Elisabeth Andreasson and Jan Werner Danielsen,Duett,76,6
+1994,Dublin,https://eurovision.tv/event/dublin-1994,18,Bosnia & Herzegovina,Alma and Dejan,Ostani Kraj Mene,39,15
+1994,Dublin,https://eurovision.tv/event/dublin-1994,19,Greece,Costas Bigalis and the Sea Lovers,To Trehantiri (diri Diri),44,14
+1994,Dublin,https://eurovision.tv/event/dublin-1994,20,Austria,Petra Frey,Für Den Frieden Der Welt,19,17
+1994,Dublin,https://eurovision.tv/event/dublin-1994,21,Spain,Alejandro Abad,Ella No Es Ella,17,18
+1994,Dublin,https://eurovision.tv/event/dublin-1994,22,Hungary,Friderika Bayer,Kinek Mondjam El Vétkeimet,122,4
+1994,Dublin,https://eurovision.tv/event/dublin-1994,23,Russia,Youddiph,Vechni Stranik,70,9
+1994,Dublin,https://eurovision.tv/event/dublin-1994,24,Poland,Edyta Górniak,To Nie Ja!,166,2
+1994,Dublin,https://eurovision.tv/event/dublin-1994,25,France,Nina Morato,Je Suis Un Vrai Garçon,74,7
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,1,Italy,Enrico Ruggeri,Sole D'europa,45,12
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,2,Turkey,"Burak Aydos, Öztürk Baybora & Serter",Esmer Yarim,10,21
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,3,Germany,Münchener Freiheit,Viel Zu Weit,18,18
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,4,Switzerland,Annie Cotton,"Moi, Tout Simplement",148,3
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,5,Denmark,Tommy Seebach Band,Under Stjernerne På Himlen,9,22
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,6,Greece,Kaiti Garbi,"Ellada, Hora Tou Fotos",64,9
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,7,Belgium,Barbara,Iemand Als Jij,3,25
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,8,Malta,William Mangion,This Time,69,8
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,9,Iceland,Inga,þá Veistu Svarið,42,13
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,10,Austria,Tony Wegas,Maria Magdalena,32,14
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,11,Portugal,Anabela,A Cidade Até Ser Dia,60,10
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,12,France,Patrick Fiori,Mama Corsica,121,4
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,13,Sweden,Arvingarna,Eloïse,89,7
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,14,Ireland,Niamh Kavanagh,In Your Eyes,187,1
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,15,Luxembourg,Modern Times,Donne-moi Une Chance,11,20
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,16,Slovenia,1X Band,Tih Dezeven Dan,9,22
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,17,Finland,Katri-Helena,Tule Luo,20,17
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,18,Bosnia & Herzegovina,Fazla,Sva Bol Svijeta,27,16
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,19,United Kingdom,Sonia,Better The Devil You Know,164,2
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,20,The Netherlands,Ruth Jacott,Vrede,92,6
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,21,Croatia,Put,Don't Ever Cry,31,15
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,22,Spain,Eva Santamaria,Hombres,58,11
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,23,Cyprus,Kyriakos Zymboulakis and Demos Van Beke,Mi Stamatas,17,19
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,24,Israel,Lakahat Shiru,Shiru,4,24
+1993,Millstreet,https://eurovision.tv/event/millstreet-1993,25,Norway,Silje Vige,Alle Mine Tankar,120,5
+1992,Malmö,https://eurovision.tv/event/malmo-1992,1,Spain,Serafin,Todo Esto Es La Música,37,14
+1992,Malmö,https://eurovision.tv/event/malmo-1992,2,Belgium,Morgane,Nous On Veut Des Violons,11,20
+1992,Malmö,https://eurovision.tv/event/malmo-1992,3,Israel,Dafna,Ze Rak Sport,85,6
+1992,Malmö,https://eurovision.tv/event/malmo-1992,4,Turkey,Aylin Vatankos,Yaz Bitti,17,19
+1992,Malmö,https://eurovision.tv/event/malmo-1992,5,Greece,Cleopatra,Olou Tou Kosmou I Elpida,94,5
+1992,Malmö,https://eurovision.tv/event/malmo-1992,6,France,Kali,Monté La Riviè,73,8
+1992,Malmö,https://eurovision.tv/event/malmo-1992,7,Sweden,Christer Björkman,I Morgon är En Annan Dag,9,22
+1992,Malmö,https://eurovision.tv/event/malmo-1992,8,Portugal,Diná,Amor D'água Fresca,26,17
+1992,Malmö,https://eurovision.tv/event/malmo-1992,9,Cyprus,Evridiki,Teriazoume,57,11
+1992,Malmö,https://eurovision.tv/event/malmo-1992,10,Malta,Mary Spiteri,Little Child,123,3
+1992,Malmö,https://eurovision.tv/event/malmo-1992,11,Iceland,Heart 2 Heart,Nei Eða Já,80,7
+1992,Malmö,https://eurovision.tv/event/malmo-1992,12,Finland,Pave,Yamma Yamma,4,23
+1992,Malmö,https://eurovision.tv/event/malmo-1992,13,Switzerland,Daisy Auvray,Mister Music Man,32,15
+1992,Malmö,https://eurovision.tv/event/malmo-1992,14,Luxembourg,Marion Welter and Kontinent,Sou Fräi,10,21
+1992,Malmö,https://eurovision.tv/event/malmo-1992,15,Austria,Tony Wegas,Zusammen Geh'n,63,10
+1992,Malmö,https://eurovision.tv/event/malmo-1992,16,United Kingdom,Michael Ball,One Step Out Of Time,139,2
+1992,Malmö,https://eurovision.tv/event/malmo-1992,17,Ireland,Linda Martin,Why Me,155,1
+1992,Malmö,https://eurovision.tv/event/malmo-1992,18,Denmark,Lotte Nilsson and Kenny Lübcke,Ålt Det Som Ingen Ser,47,12
+1992,Malmö,https://eurovision.tv/event/malmo-1992,19,Italy,Mia Martini,Rapsodia,111,4
+1992,Malmö,https://eurovision.tv/event/malmo-1992,20,Yugoslavia,Extra Nena,Ljubim Te Pesmama,44,13
+1992,Malmö,https://eurovision.tv/event/malmo-1992,21,Norway,Merethe Trøan,Visjoner,23,18
+1992,Malmö,https://eurovision.tv/event/malmo-1992,22,Germany,Wind,Träume Sind Für Alle Da,27,16
+1992,Malmö,https://eurovision.tv/event/malmo-1992,23,The Netherlands,Humphrey Campbell,Wijs Me De Weg,67,9
+1991,Rome,https://eurovision.tv/event/rome-1991,1,Yugoslavia,Baby Doll,Brazil,1,21
+1991,Rome,https://eurovision.tv/event/rome-1991,2,Iceland,Stefán and Eyfi,Nina,26,15
+1991,Rome,https://eurovision.tv/event/rome-1991,3,Malta,Paul Giordimaina and Georgina,Could It Be,106,6
+1991,Rome,https://eurovision.tv/event/rome-1991,4,Greece,Sofia Vossou,I Anixi,36,13
+1991,Rome,https://eurovision.tv/event/rome-1991,5,Switzerland,Sandra Simò,Canzone Per Te,118,5
+1991,Rome,https://eurovision.tv/event/rome-1991,6,Austria,Thomas Forstner,Venedig Im Regen,NA,22
+1991,Rome,https://eurovision.tv/event/rome-1991,7,Luxembourg,Sarah Bray,Un Baiser Volé,29,14
+1991,Rome,https://eurovision.tv/event/rome-1991,8,Sweden,Carola,Fångad Av En Stormvind,146,1
+1991,Rome,https://eurovision.tv/event/rome-1991,9,France,Amina,C'est Le Dernier Qui A Parlé Qui A Raison,146,2
+1991,Rome,https://eurovision.tv/event/rome-1991,10,Turkey,"Izel Çeliköz, Rayhan Soykarçi and Can Ugurluér",Iki Dakika,44,12
+1991,Rome,https://eurovision.tv/event/rome-1991,11,Ireland,Kim Jackson,Could It Be That I'm In Love,47,10
+1991,Rome,https://eurovision.tv/event/rome-1991,12,Portugal,Dulce,Lusitana Paixão,62,8
+1991,Rome,https://eurovision.tv/event/rome-1991,13,Denmark,Anders Frandsen,Lige Der Hvor Hjertet Slår,8,19
+1991,Rome,https://eurovision.tv/event/rome-1991,14,Norway,Just 4 Fun,Mrs. Thompson,14,17
+1991,Rome,https://eurovision.tv/event/rome-1991,15,Israel,Duo Datz,Kan,139,3
+1991,Rome,https://eurovision.tv/event/rome-1991,16,Finland,Kaija,Hullu Yö,6,20
+1991,Rome,https://eurovision.tv/event/rome-1991,17,Germany,Atlantis 2000,Dieser Traum Darf Niemals Sterben,10,18
+1991,Rome,https://eurovision.tv/event/rome-1991,18,Belgium,Clouseau,Geef Het Op,23,16
+1991,Rome,https://eurovision.tv/event/rome-1991,19,Spain,Sergio Dalma,Bailar Pegados,119,4
+1991,Rome,https://eurovision.tv/event/rome-1991,20,United Kingdom,Samantha Janus,A Message To Your Heart,47,10
+1991,Rome,https://eurovision.tv/event/rome-1991,21,Cyprus,Elena Patroclou,S.o.s.,60,9
+1991,Rome,https://eurovision.tv/event/rome-1991,22,Italy,Peppino di Capri,Comme E' Ddoce 'o Mare,89,7
+1990,Zagreb,https://eurovision.tv/event/zagreb-1990,1,Spain,Azúcar Moreno,Bandido,96,5
+1990,Zagreb,https://eurovision.tv/event/zagreb-1990,2,Greece,Christos Callow and Wave,Horis Skopo,11,19
+1990,Zagreb,https://eurovision.tv/event/zagreb-1990,3,Belgium,Philippe Lafontaine,Macédomienne,46,12
+1990,Zagreb,https://eurovision.tv/event/zagreb-1990,4,Turkey,Kayahan,Gözlerinin Hapsindeyim,21,17
+1990,Zagreb,https://eurovision.tv/event/zagreb-1990,5,The Netherlands,Maywood,Ik Wil Alles Met Je Delen,25,15
+1990,Zagreb,https://eurovision.tv/event/zagreb-1990,6,Luxembourg,Céline Carzo,Quand Je Te Rêve,38,13
+1990,Zagreb,https://eurovision.tv/event/zagreb-1990,7,United Kingdom,Emma,Give A Little Love Back To The World,87,6
+1990,Zagreb,https://eurovision.tv/event/zagreb-1990,8,Iceland,Stjórnin,Eitt Lag Enn,124,4
+1990,Zagreb,https://eurovision.tv/event/zagreb-1990,9,Norway,Ketil Stokkan,Brandenburger Tor,8,21
+1990,Zagreb,https://eurovision.tv/event/zagreb-1990,10,Israel,Rita,Shara Barechovot,16,18
+1990,Zagreb,https://eurovision.tv/event/zagreb-1990,11,Denmark,Lonnie Devantier,Hallo Hallo,64,8
+1990,Zagreb,https://eurovision.tv/event/zagreb-1990,12,Switzerland,Egon Egemann,Musik Klingt In Die Welt Hinaus,51,11
+1990,Zagreb,https://eurovision.tv/event/zagreb-1990,13,Germany,Chris Kempers and Daniel Kovac,Frei Zu Leben,60,9
+1990,Zagreb,https://eurovision.tv/event/zagreb-1990,14,France,Joelle Ursull,White And Black Blues,132,2
+1990,Zagreb,https://eurovision.tv/event/zagreb-1990,15,Yugoslavia,Tajci,Hajde Da Ludujemo,81,7
+1990,Zagreb,https://eurovision.tv/event/zagreb-1990,16,Portugal,Nucha,Há Sempre Alguém,9,20
+1990,Zagreb,https://eurovision.tv/event/zagreb-1990,17,Ireland,Liam Reilly,Somewhere In Europe,132,2
+1990,Zagreb,https://eurovision.tv/event/zagreb-1990,18,Sweden,Edin-Ådahl,Som En Vind,24,16
+1990,Zagreb,https://eurovision.tv/event/zagreb-1990,19,Italy,Toto Cutugno,Insieme: 1992,149,1
+1990,Zagreb,https://eurovision.tv/event/zagreb-1990,20,Austria,Simone,Keine Mauern Mehr,58,10
+1990,Zagreb,https://eurovision.tv/event/zagreb-1990,21,Cyprus,Haris Anastasiou,Milas Poli,36,14
+1990,Zagreb,https://eurovision.tv/event/zagreb-1990,22,Finland,Beat,Fri?,8,21
+1989,Lausanne,https://eurovision.tv/event/lausanne-1989,1,Italy,Anna Oxa and Fausto Leali,Avrei Voluto,56,9
+1989,Lausanne,https://eurovision.tv/event/lausanne-1989,2,Israel,Gili ve Galit,Derech Ha'melech,50,12
+1989,Lausanne,https://eurovision.tv/event/lausanne-1989,3,Ireland,Kiev Connolly and the Missing Passengers,The Real Me,21,18
+1989,Lausanne,https://eurovision.tv/event/lausanne-1989,4,The Netherlands,Justine Pelmelay,Blijf Zoals Je Bent,45,15
+1989,Lausanne,https://eurovision.tv/event/lausanne-1989,5,Turkey,Pan,Bana Bana,5,21
+1989,Lausanne,https://eurovision.tv/event/lausanne-1989,6,Belgium,Ingeborg,Door De Wind,13,19
+1989,Lausanne,https://eurovision.tv/event/lausanne-1989,7,United Kingdom,Live Report,Why Do I Always Get It Wrong,130,2
+1989,Lausanne,https://eurovision.tv/event/lausanne-1989,8,Norway,Britt Synnøve Johansen,Venners Nærhet,30,17
+1989,Lausanne,https://eurovision.tv/event/lausanne-1989,9,Portugal,Da Vinci,Conquistador,39,16
+1989,Lausanne,https://eurovision.tv/event/lausanne-1989,10,Sweden,Tommy Nilsson,En Dag,110,4
+1989,Lausanne,https://eurovision.tv/event/lausanne-1989,11,Luxembourg,Park Café,Monsieur,8,20
+1989,Lausanne,https://eurovision.tv/event/lausanne-1989,12,Denmark,Birthe Kjær,Vi Maler Byen Rød,111,3
+1989,Lausanne,https://eurovision.tv/event/lausanne-1989,13,Austria,Thomas Forstner,Nur Ein Lied,97,5
+1989,Lausanne,https://eurovision.tv/event/lausanne-1989,14,Finland,Anneli Saaristo,La Dolce Vita,76,7
+1989,Lausanne,https://eurovision.tv/event/lausanne-1989,15,France,Nathalie Pâque,J'ai Volé La Vie,60,8
+1989,Lausanne,https://eurovision.tv/event/lausanne-1989,16,Spain,Nina,Nacida Para Amar,88,6
+1989,Lausanne,https://eurovision.tv/event/lausanne-1989,17,Cyprus,Fanny Polymeri and Yiannis Savvidakis,Apopse As Vrethoume,51,11
+1989,Lausanne,https://eurovision.tv/event/lausanne-1989,18,Switzerland,Furbaz,Viver Senza Tei,47,13
+1989,Lausanne,https://eurovision.tv/event/lausanne-1989,19,Greece,Marianna,To Diko Sou Asteri,56,9
+1989,Lausanne,https://eurovision.tv/event/lausanne-1989,20,Iceland,Daníel Augúst Haraldsson,Það Sem Enginn Sér,NA,22
+1989,Lausanne,https://eurovision.tv/event/lausanne-1989,21,Germany,Nino de Angelo,Flieger,46,14
+1989,Lausanne,https://eurovision.tv/event/lausanne-1989,22,Yugoslavia,Riva,Rock Me,137,1
+1988,Dublin,https://eurovision.tv/event/dublin-1988,1,Iceland,Beathoven,Sókrates,20,16
+1988,Dublin,https://eurovision.tv/event/dublin-1988,2,Sweden,Tommy Körberg,Stad I Ljus,52,12
+1988,Dublin,https://eurovision.tv/event/dublin-1988,3,Finland,Boulevard,Nauravat Silmät Muistetaan,3,20
+1988,Dublin,https://eurovision.tv/event/dublin-1988,4,United Kingdom,Scott Fitzgerald,Go,136,2
+1988,Dublin,https://eurovision.tv/event/dublin-1988,5,Turkey,MFÖ,Sufi (hey Ya Hey),37,15
+1988,Dublin,https://eurovision.tv/event/dublin-1988,6,Spain,La Década,La Chica Que Yo Quiero (made In Spain),58,11
+1988,Dublin,https://eurovision.tv/event/dublin-1988,7,The Netherlands,Gerard Joling,Shangri-la,70,9
+1988,Dublin,https://eurovision.tv/event/dublin-1988,8,Israel,Yardena Arazi,Ben Adam,85,7
+1988,Dublin,https://eurovision.tv/event/dublin-1988,9,Switzerland,Céline Dion,Ne Partez Pas Sans Moi,137,1
+1988,Dublin,https://eurovision.tv/event/dublin-1988,10,Ireland,Jump the Gun,Take Him Home,79,8
+1988,Dublin,https://eurovision.tv/event/dublin-1988,11,Germany,Maxi and Chris Garden,Lied Für Einen Freund,48,14
+1988,Dublin,https://eurovision.tv/event/dublin-1988,12,Austria,Wilfried,Lisa Mona Lisa,NA,21
+1988,Dublin,https://eurovision.tv/event/dublin-1988,13,Denmark,Hot Eyes,Ka' Du Se Hva' Jeg Sa',92,3
+1988,Dublin,https://eurovision.tv/event/dublin-1988,14,Greece,Aphroditi Fryda,Kloun,10,17
+1988,Dublin,https://eurovision.tv/event/dublin-1988,15,Norway,Karoline Krüger,For Vår Jord,88,5
+1988,Dublin,https://eurovision.tv/event/dublin-1988,16,Belgium,Reynaert,Laissez Briller Le Soleil,5,18
+1988,Dublin,https://eurovision.tv/event/dublin-1988,17,Luxembourg,Lara Fabian,Croire,90,4
+1988,Dublin,https://eurovision.tv/event/dublin-1988,18,Italy,Luca Barbarossa,Ti Scrivo,52,12
+1988,Dublin,https://eurovision.tv/event/dublin-1988,19,France,Gérard Lenorman,Chanteur De Charme,64,10
+1988,Dublin,https://eurovision.tv/event/dublin-1988,20,Portugal,Dora,Voltarei,5,18
+1988,Dublin,https://eurovision.tv/event/dublin-1988,21,Yugoslavia,Srebrna Krila,Mangup,87,6
+1987,Brussels,https://eurovision.tv/event/brussels-1987,1,Norway,Kate Gulbrandsen,Mitt Liv,65,9
+1987,Brussels,https://eurovision.tv/event/brussels-1987,2,Israel,Datner and Kushnir,Shir Habatlanim,73,8
+1987,Brussels,https://eurovision.tv/event/brussels-1987,3,Austria,Gary Lux,Nur Noch Gefühl,8,20
+1987,Brussels,https://eurovision.tv/event/brussels-1987,4,Iceland,Halla Margarét,Hægt Og Hljótt,28,16
+1987,Brussels,https://eurovision.tv/event/brussels-1987,5,Belgium,Liliane Saint-Pierre,Soldiers Of Love,56,11
+1987,Brussels,https://eurovision.tv/event/brussels-1987,6,Sweden,Lotta Engberg,Boogaloo,50,12
+1987,Brussels,https://eurovision.tv/event/brussels-1987,7,Italy,Umberto Tozzi and Raf,Gente Di Mare,103,3
+1987,Brussels,https://eurovision.tv/event/brussels-1987,8,Portugal,Nevada,Neste Barco à Vela,15,18
+1987,Brussels,https://eurovision.tv/event/brussels-1987,9,Spain,Patricia Kraus,No Estás Solo,10,19
+1987,Brussels,https://eurovision.tv/event/brussels-1987,10,Turkey,Seyyal Tanner and Lokomotif,Sarkim Sevgi üstüne,NA,22
+1987,Brussels,https://eurovision.tv/event/brussels-1987,11,Greece,Bang,Stop!,64,10
+1987,Brussels,https://eurovision.tv/event/brussels-1987,12,The Netherlands,Marcha,Rechtop In De Wind,83,5
+1987,Brussels,https://eurovision.tv/event/brussels-1987,13,Luxembourg,Plastic Bertrand,Amour Amour,4,21
+1987,Brussels,https://eurovision.tv/event/brussels-1987,14,United Kingdom,Rikki,Only The Light,47,13
+1987,Brussels,https://eurovision.tv/event/brussels-1987,15,France,Christine Minier,Les Mots D'amour N'ont Pas De Dimanche,44,14
+1987,Brussels,https://eurovision.tv/event/brussels-1987,16,Germany,Wind,Laß Die Sonne In Dein Herz,141,2
+1987,Brussels,https://eurovision.tv/event/brussels-1987,17,Cyprus,Alexia,Aspro Mavro,80,7
+1987,Brussels,https://eurovision.tv/event/brussels-1987,18,Finland,Vicky Rosti,Sata Salamaa,32,15
+1987,Brussels,https://eurovision.tv/event/brussels-1987,19,Denmark,Anne-Catherine Herdorf and Bandjo,En Lille Melodi,83,5
+1987,Brussels,https://eurovision.tv/event/brussels-1987,20,Ireland,Johnny Logan,Hold Me Now,172,1
+1987,Brussels,https://eurovision.tv/event/brussels-1987,21,Yugoslavia,Novi Fosili,Ja Sam Za Ples,92,4
+1987,Brussels,https://eurovision.tv/event/brussels-1987,22,Switzerland,Carole Rich,Moitié Moitié,26,17
+1986,Bergen,https://eurovision.tv/event/bergen-1986,1,Luxembourg,Sherisse Laurence,L'amour De Ma Vie,117,3
+1986,Bergen,https://eurovision.tv/event/bergen-1986,2,Yugoslavia,Doris Dragovic,Zeljo Moja,49,11
+1986,Bergen,https://eurovision.tv/event/bergen-1986,3,France,Cocktail Chic,Européennes,13,17
+1986,Bergen,https://eurovision.tv/event/bergen-1986,4,Norway,Ketil Stokkan,Romeo,44,12
+1986,Bergen,https://eurovision.tv/event/bergen-1986,5,United Kingdom,Ryder,Runner In The Night,72,7
+1986,Bergen,https://eurovision.tv/event/bergen-1986,6,Iceland,Icy,Gleðibankinn,19,16
+1986,Bergen,https://eurovision.tv/event/bergen-1986,7,The Netherlands,Frizzle Sizzle,Alles Heeft Ritme,40,13
+1986,Bergen,https://eurovision.tv/event/bergen-1986,8,Turkey,Klips ve Onlar,Halley,53,9
+1986,Bergen,https://eurovision.tv/event/bergen-1986,9,Spain,Cadillac,Valentino,51,10
+1986,Bergen,https://eurovision.tv/event/bergen-1986,10,Switzerland,Daniela Simons,Pas Pour Moi,140,2
+1986,Bergen,https://eurovision.tv/event/bergen-1986,11,Israel,Moti Galadi and Sarai Tzuriel,Yavoh Yom,7,19
+1986,Bergen,https://eurovision.tv/event/bergen-1986,12,Ireland,Luv Bug,You Can Count On Me,96,4
+1986,Bergen,https://eurovision.tv/event/bergen-1986,13,Belgium,Sandra Kim,J'aime La Vie,176,1
+1986,Bergen,https://eurovision.tv/event/bergen-1986,14,Germany,Ingrid Peters,Über Die Brücke Geh'n,62,8
+1986,Bergen,https://eurovision.tv/event/bergen-1986,15,Cyprus,Elpida,Tora Zo,4,20
+1986,Bergen,https://eurovision.tv/event/bergen-1986,16,Austria,Timna Brauer,Die Zeit Ist Einsam,12,18
+1986,Bergen,https://eurovision.tv/event/bergen-1986,17,Sweden,Lasse Holm and Monica Törnell,E' De' Det Här Du Kallar Kärlek,78,5
+1986,Bergen,https://eurovision.tv/event/bergen-1986,18,Denmark,Lise Haavik and Trax,Du Er Fuld Af Løgn,77,6
+1986,Bergen,https://eurovision.tv/event/bergen-1986,19,Finland,Kari Kuivalainen,Päivä Kahden Ihmisen,22,15
+1986,Bergen,https://eurovision.tv/event/bergen-1986,20,Portugal,Dora,Não Sejas Mau Para Mim,28,14
+1985,Gothenburg,https://eurovision.tv/event/gothenburg-1985,1,Ireland,Maria Christian,Wait Until The Weekend Comes,91,6
+1985,Gothenburg,https://eurovision.tv/event/gothenburg-1985,2,Finland,Sonja Lumme,Eläköön Elämä,58,9
+1985,Gothenburg,https://eurovision.tv/event/gothenburg-1985,3,Cyprus,Lia Vishy,To Katalava Arga,15,16
+1985,Gothenburg,https://eurovision.tv/event/gothenburg-1985,4,Denmark,Hot Eyes,Sku' Du Spør Fra No'n,41,11
+1985,Gothenburg,https://eurovision.tv/event/gothenburg-1985,5,Spain,Paloma San Basilio,La Fiesta Terminó,36,14
+1985,Gothenburg,https://eurovision.tv/event/gothenburg-1985,6,France,Roger Bens,Femme Dans Ses Rêves Aussi,56,10
+1985,Gothenburg,https://eurovision.tv/event/gothenburg-1985,7,Turkey,MFÖ,Di Dai Di Dai Dai (a'sik Oldum),36,14
+1985,Gothenburg,https://eurovision.tv/event/gothenburg-1985,8,Belgium,Linda Lepomme,Laat Me Nu Gaan,7,19
+1985,Gothenburg,https://eurovision.tv/event/gothenburg-1985,9,Portugal,Adelaïde,"Penso Em Ti, Eu Sei",9,18
+1985,Gothenburg,https://eurovision.tv/event/gothenburg-1985,10,Germany,Wind,Für Alle,105,2
+1985,Gothenburg,https://eurovision.tv/event/gothenburg-1985,11,Israel,Izhar Cohen,Olé Olé,93,5
+1985,Gothenburg,https://eurovision.tv/event/gothenburg-1985,12,Italy,Al Bano and Romina Power,"Magic, Oh Magic",78,7
+1985,Gothenburg,https://eurovision.tv/event/gothenburg-1985,13,Norway,Bobbysocks,La Det Swinge,123,1
+1985,Gothenburg,https://eurovision.tv/event/gothenburg-1985,14,United Kingdom,Vikki,Love Is...,100,4
+1985,Gothenburg,https://eurovision.tv/event/gothenburg-1985,15,Switzerland,Mariella Farré and Pino Gasparini,Piano Piano,39,12
+1985,Gothenburg,https://eurovision.tv/event/gothenburg-1985,16,Sweden,Kikki Danielsson,Bra Vibrationer,103,3
+1985,Gothenburg,https://eurovision.tv/event/gothenburg-1985,17,Austria,Gary Lux,Kinder Dieser Welt,60,8
+1985,Gothenburg,https://eurovision.tv/event/gothenburg-1985,18,Luxembourg,"Margo, Franck Olivier, Diane Solomon, Ireen Sheer, Malcolm Roberts and Chris Roberts","Children, Kinder, Enfants",37,13
+1985,Gothenburg,https://eurovision.tv/event/gothenburg-1985,19,Greece,Takis Biniaris,Miazoume,15,16
+1984,Luxembourg,https://eurovision.tv/event/luxembourg-1984,1,Sweden,Herrey's,Diggi-loo Diggy-ley,145,1
+1984,Luxembourg,https://eurovision.tv/event/luxembourg-1984,2,Luxembourg,Sophie Carle,100% D'amour,39,10
+1984,Luxembourg,https://eurovision.tv/event/luxembourg-1984,3,France,Annick Thoumazeau,Autant D'amoureux Que D'étoiles,61,8
+1984,Luxembourg,https://eurovision.tv/event/luxembourg-1984,4,Spain,Bravo,"Lady, Lady",106,3
+1984,Luxembourg,https://eurovision.tv/event/luxembourg-1984,5,Norway,Dollie de Luxe,Lenge Leve Livet,29,17
+1984,Luxembourg,https://eurovision.tv/event/luxembourg-1984,6,United Kingdom,Belle and the Devotions,Love Games,63,7
+1984,Luxembourg,https://eurovision.tv/event/luxembourg-1984,7,Cyprus,Andy Paul,Anna Mari-elena,31,15
+1984,Luxembourg,https://eurovision.tv/event/luxembourg-1984,8,Belgium,Jacques Zegers,Avanti La Vie,70,5
+1984,Luxembourg,https://eurovision.tv/event/luxembourg-1984,9,Ireland,Linda Martin,Terminal '3',137,2
+1984,Luxembourg,https://eurovision.tv/event/luxembourg-1984,10,Denmark,Hot Eyes,Det' Lige Det,101,4
+1984,Luxembourg,https://eurovision.tv/event/luxembourg-1984,11,The Netherlands,Maribelle,Ik Hou Van Jou,34,13
+1984,Luxembourg,https://eurovision.tv/event/luxembourg-1984,12,Yugoslavia,Vlado and Isolda,Ciao Amore,26,18
+1984,Luxembourg,https://eurovision.tv/event/luxembourg-1984,13,Austria,Anita,Einfach Weg,5,19
+1984,Luxembourg,https://eurovision.tv/event/luxembourg-1984,14,Germany,Mary Roos,Aufrecht Geh'n,34,13
+1984,Luxembourg,https://eurovision.tv/event/luxembourg-1984,15,Turkey,"Bes Yil Önce, On Yil Sonra",Halay,37,12
+1984,Luxembourg,https://eurovision.tv/event/luxembourg-1984,16,Finland,Kirka,Hengaillaan,46,9
+1984,Luxembourg,https://eurovision.tv/event/luxembourg-1984,17,Switzerland,Rainy Day,Welche Farbe Hat Der Sonnenschein,30,16
+1984,Luxembourg,https://eurovision.tv/event/luxembourg-1984,18,Italy,Alice and Battiato,I Treni Di Tozeur,70,5
+1984,Luxembourg,https://eurovision.tv/event/luxembourg-1984,19,Portugal,Maria Guinot,Silêncio E Tanta Gente,38,11
+1983,Munich,https://eurovision.tv/event/munich-1983,1,France,Guy Bonnet,Vivre,56,8
+1983,Munich,https://eurovision.tv/event/munich-1983,2,Norway,Jahn Teigen,Do Re Mi,53,9
+1983,Munich,https://eurovision.tv/event/munich-1983,3,United Kingdom,Sweet Dreams,I'm Never Giving Up,79,6
+1983,Munich,https://eurovision.tv/event/munich-1983,4,Sweden,Carola Häggkvist,Främling,126,3
+1983,Munich,https://eurovision.tv/event/munich-1983,5,Italy,Riccardo Fogli,Per Lucia,41,11
+1983,Munich,https://eurovision.tv/event/munich-1983,6,Turkey,Çetin Alp and the Short Wave,Opera,NA,19
+1983,Munich,https://eurovision.tv/event/munich-1983,7,Spain,Remedios Amaya,¿quién Maneja Mi Barca?,NA,19
+1983,Munich,https://eurovision.tv/event/munich-1983,8,Switzerland,Mariella Farré,Io Così Non Ci Sto,28,15
+1983,Munich,https://eurovision.tv/event/munich-1983,9,Finland,Ami Aspelund,Fantasiaa,41,11
+1983,Munich,https://eurovision.tv/event/munich-1983,10,Greece,Christie Stassinopoulou,Mou Les,32,14
+1983,Munich,https://eurovision.tv/event/munich-1983,11,The Netherlands,Bernadette,Sing Me A Song,66,7
+1983,Munich,https://eurovision.tv/event/munich-1983,12,Yugoslavia,Danijel,Dzuli,125,4
+1983,Munich,https://eurovision.tv/event/munich-1983,13,Cyprus,Stavros and Constantina,I Agapi Akoma Zi,26,16
+1983,Munich,https://eurovision.tv/event/munich-1983,14,Germany,Hoffmann und Hoffmann,Rücksicht,94,5
+1983,Munich,https://eurovision.tv/event/munich-1983,15,Denmark,Gry Johansen,Kloden Drejer,16,17
+1983,Munich,https://eurovision.tv/event/munich-1983,16,Israel,Ofra Haza,Hi,136,2
+1983,Munich,https://eurovision.tv/event/munich-1983,17,Portugal,Armando Gama,Esta Balada Que Te Dou,33,13
+1983,Munich,https://eurovision.tv/event/munich-1983,18,Austria,Westend,Hurricane,53,9
+1983,Munich,https://eurovision.tv/event/munich-1983,19,Belgium,Pas de Deux,Rendez-vous,13,18
+1983,Munich,https://eurovision.tv/event/munich-1983,20,Luxembourg,Corinne Hermès,Si La Vie Est Cadeau,142,1
+1982,Harrogate,https://eurovision.tv/event/harrogate-1982,1,Portugal,Doce,Bem-bom,32,13
+1982,Harrogate,https://eurovision.tv/event/harrogate-1982,2,Luxembourg,Svetlana,Cour Apres Le Temps,78,6
+1982,Harrogate,https://eurovision.tv/event/harrogate-1982,3,Norway,Jahn Teigen and Anita Skorgan,Adieu,40,12
+1982,Harrogate,https://eurovision.tv/event/harrogate-1982,4,United Kingdom,Bardo,One Step Further,76,7
+1982,Harrogate,https://eurovision.tv/event/harrogate-1982,5,Turkey,Neço,Hani,20,15
+1982,Harrogate,https://eurovision.tv/event/harrogate-1982,6,Finland,Kojo,Nuku Pommiin,NA,18
+1982,Harrogate,https://eurovision.tv/event/harrogate-1982,7,Switzerland,Arlette Zola,Amour On T'aime,97,3
+1982,Harrogate,https://eurovision.tv/event/harrogate-1982,8,Cyprus,Anna Vishy,Mono I Agapi,85,5
+1982,Harrogate,https://eurovision.tv/event/harrogate-1982,9,Sweden,Chips,Dag Efter Dag,67,8
+1982,Harrogate,https://eurovision.tv/event/harrogate-1982,10,Austria,Mess,Sonntag,57,9
+1982,Harrogate,https://eurovision.tv/event/harrogate-1982,11,Belgium,Stella,Si Tu Aimes Ma Musique,96,4
+1982,Harrogate,https://eurovision.tv/event/harrogate-1982,12,Spain,Lucía,Él,52,10
+1982,Harrogate,https://eurovision.tv/event/harrogate-1982,13,Denmark,Brixx,Video-video,5,17
+1982,Harrogate,https://eurovision.tv/event/harrogate-1982,14,Yugoslavia,Aska,Halo Halo,21,14
+1982,Harrogate,https://eurovision.tv/event/harrogate-1982,15,Israel,Avi Toledano,Hora,100,2
+1982,Harrogate,https://eurovision.tv/event/harrogate-1982,16,The Netherlands,Bill van Dijk,Jij En Ik,8,16
+1982,Harrogate,https://eurovision.tv/event/harrogate-1982,17,Ireland,The Duskeys,"Here Today, Gone Tomorrow",49,11
+1982,Harrogate,https://eurovision.tv/event/harrogate-1982,18,Germany,Nicole,Ein Bißchen Frieden,161,1
+1981,Dublin,https://eurovision.tv/event/dublin-1981,1,Austria,Marty Brem,Wenn Du Da Bist,20,17
+1981,Dublin,https://eurovision.tv/event/dublin-1981,2,Turkey,Modern Folk Trio and Aysegül,Dönme Dolap,9,18
+1981,Dublin,https://eurovision.tv/event/dublin-1981,3,Germany,Lena Valaitis,Johnny Blue,132,2
+1981,Dublin,https://eurovision.tv/event/dublin-1981,4,Luxembourg,Jean-Claude Pascal,C'est Peut-être Pas L'amérique,41,11
+1981,Dublin,https://eurovision.tv/event/dublin-1981,5,Israel,Habibi,Halaylah,56,7
+1981,Dublin,https://eurovision.tv/event/dublin-1981,6,Denmark,Debbie Cameron and Tommy Seebach,Krøller Eller Ej,41,11
+1981,Dublin,https://eurovision.tv/event/dublin-1981,7,Yugoslavia,Seid-Memic Vajta,Leila,35,15
+1981,Dublin,https://eurovision.tv/event/dublin-1981,8,Finland,Riki Sorsa,Reggae O.k.,27,16
+1981,Dublin,https://eurovision.tv/event/dublin-1981,9,France,Jean Gabilou,Humanahum,125,3
+1981,Dublin,https://eurovision.tv/event/dublin-1981,10,Spain,Bacchelli,Y Solo Tú,38,14
+1981,Dublin,https://eurovision.tv/event/dublin-1981,11,The Netherlands,Linda Williams,Het Is Een Wonder,51,9
+1981,Dublin,https://eurovision.tv/event/dublin-1981,12,Ireland,Sheeba,Horoscopes,105,5
+1981,Dublin,https://eurovision.tv/event/dublin-1981,13,Norway,Finn Kalvik,Aldri I Livet,NA,20
+1981,Dublin,https://eurovision.tv/event/dublin-1981,14,United Kingdom,Bucks Fizz,Making Your Mind Up,136,1
+1981,Dublin,https://eurovision.tv/event/dublin-1981,15,Portugal,Carlos Paião,Play-back,9,18
+1981,Dublin,https://eurovision.tv/event/dublin-1981,16,Belgium,Emly Starr,Samson,40,13
+1981,Dublin,https://eurovision.tv/event/dublin-1981,17,Greece,Yiannis Dimitras,Feggari Kalokerino,55,8
+1981,Dublin,https://eurovision.tv/event/dublin-1981,18,Cyprus,Island,Monika,69,6
+1981,Dublin,https://eurovision.tv/event/dublin-1981,19,Switzerland,"Peter, Sue and Marc",Io Senza Tei,121,4
+1981,Dublin,https://eurovision.tv/event/dublin-1981,20,Sweden,Björn Skifs,Fångad I En Dröm,50,10
+1980,The Hague,https://eurovision.tv/event/the-hague-1980,1,Austria,Blue Danube,Du Bist Musik,64,8
+1980,The Hague,https://eurovision.tv/event/the-hague-1980,2,Turkey,Ajda Pekkan,Petr'oil,23,15
+1980,The Hague,https://eurovision.tv/event/the-hague-1980,3,Greece,Anna Vishy and the Epikouri,Autostop,30,13
+1980,The Hague,https://eurovision.tv/event/the-hague-1980,4,Luxembourg,Sophie and Magaly,Papa Pingouin,56,9
+1980,The Hague,https://eurovision.tv/event/the-hague-1980,5,Morocco,Samira Bensaïd,Bitakat Hob,7,18
+1980,The Hague,https://eurovision.tv/event/the-hague-1980,6,Italy,Alan Sorrenti,Non So Che Darei,87,6
+1980,The Hague,https://eurovision.tv/event/the-hague-1980,7,Denmark,Bamses Venner,Tænker Altid På Dig,25,14
+1980,The Hague,https://eurovision.tv/event/the-hague-1980,8,Sweden,Tomas Ledin,Just Nu!,47,10
+1980,The Hague,https://eurovision.tv/event/the-hague-1980,9,Switzerland,Paola,Cinéma,104,4
+1980,The Hague,https://eurovision.tv/event/the-hague-1980,10,Finland,Vesa-Matti Loiri,Huilumies,6,19
+1980,The Hague,https://eurovision.tv/event/the-hague-1980,11,Norway,Sverre Kjellsberg and Mattis Hætta,Sámiid Ædnan,15,16
+1980,The Hague,https://eurovision.tv/event/the-hague-1980,12,Germany,Katja Ebstein,Theater,128,2
+1980,The Hague,https://eurovision.tv/event/the-hague-1980,13,United Kingdom,Prima Donna,Love Enough For Two,106,3
+1980,The Hague,https://eurovision.tv/event/the-hague-1980,14,Portugal,José Cid,"Um Grande, Grande Amor",71,7
+1980,The Hague,https://eurovision.tv/event/the-hague-1980,15,The Netherlands,Maggie MacNeal,Amsterdam,93,5
+1980,The Hague,https://eurovision.tv/event/the-hague-1980,16,France,Profil,"Hé, Hé M'sieurs Dames",45,11
+1980,The Hague,https://eurovision.tv/event/the-hague-1980,17,Ireland,Johnny Logan,What's Another Year,143,1
+1980,The Hague,https://eurovision.tv/event/the-hague-1980,18,Spain,Trigo Limpio,Qué Date Esta Noche,38,12
+1980,The Hague,https://eurovision.tv/event/the-hague-1980,19,Belgium,Telex,Euro-vision,14,17
+1979,Jerusalem,https://eurovision.tv/event/jerusalem-1979,1,Portugal,Manuela Bravo,"Sobe, Sobe, Balão Sobe",64,9
+1979,Jerusalem,https://eurovision.tv/event/jerusalem-1979,2,Italy,Matia Bazar,Raggio Di Luna,27,15
+1979,Jerusalem,https://eurovision.tv/event/jerusalem-1979,3,Denmark,Tommy Seebach,Disco Tango,76,6
+1979,Jerusalem,https://eurovision.tv/event/jerusalem-1979,4,Ireland,Cathal Dunne,Happy Man,80,5
+1979,Jerusalem,https://eurovision.tv/event/jerusalem-1979,5,Finland,Katri-Helena,Katso Sineen Taivaan,38,14
+1979,Jerusalem,https://eurovision.tv/event/jerusalem-1979,6,Monaco,Laurent Vaguener,"Notre Vie, C'est La Musique",12,16
+1979,Jerusalem,https://eurovision.tv/event/jerusalem-1979,7,Greece,Elpida,Socrates,69,8
+1979,Jerusalem,https://eurovision.tv/event/jerusalem-1979,8,Switzerland,"Peter, Sue and Marc and Pfuri, Gorps and Kniri",Trödler Und Co.,60,10
+1979,Jerusalem,https://eurovision.tv/event/jerusalem-1979,9,Germany,Dschinghis Khan,Dschinghis Khan,86,4
+1979,Jerusalem,https://eurovision.tv/event/jerusalem-1979,10,Israel,Milk and Honey,Hallelujah,125,1
+1979,Jerusalem,https://eurovision.tv/event/jerusalem-1979,11,France,Anne-Marie David,Je Suis L'enfant-soleil,106,3
+1979,Jerusalem,https://eurovision.tv/event/jerusalem-1979,12,Belgium,Micha Marah,Hey Nana,5,18
+1979,Jerusalem,https://eurovision.tv/event/jerusalem-1979,13,Luxembourg,Jeane Manson,J'ai Déjà Vu ça Dans Tes Yeux,44,13
+1979,Jerusalem,https://eurovision.tv/event/jerusalem-1979,14,The Netherlands,Xandra,Colorado,51,12
+1979,Jerusalem,https://eurovision.tv/event/jerusalem-1979,15,Sweden,Ted Gärdestad,Satellit,8,17
+1979,Jerusalem,https://eurovision.tv/event/jerusalem-1979,16,Norway,Anita Skorgan,Oliver,57,11
+1979,Jerusalem,https://eurovision.tv/event/jerusalem-1979,17,United Kingdom,Black Lace,Mary Ann,73,7
+1979,Jerusalem,https://eurovision.tv/event/jerusalem-1979,18,Austria,Christina Simon,Heute In Jerusalem,5,18
+1979,Jerusalem,https://eurovision.tv/event/jerusalem-1979,19,Spain,Betty Missiego,Su Canción,116,2
+1978,Paris,https://eurovision.tv/event/paris-1978,1,Ireland,Colm T. Wilkinson,Born To Sing,86,5
+1978,Paris,https://eurovision.tv/event/paris-1978,2,Norway,Jahn Teigen,Mil Etter Mil,NA,20
+1978,Paris,https://eurovision.tv/event/paris-1978,3,Italy,Ricchi e Poveri,Questo Amore,53,12
+1978,Paris,https://eurovision.tv/event/paris-1978,4,Finland,Seija Simola,Anna Rakkaudelle Tilaisuus,2,18
+1978,Paris,https://eurovision.tv/event/paris-1978,5,Portugal,Gemini,Dai-li-dou,5,17
+1978,Paris,https://eurovision.tv/event/paris-1978,6,France,Joël Prévost,Il Y Aura Toujours Des Violons,119,3
+1978,Paris,https://eurovision.tv/event/paris-1978,7,Spain,José Vélez,Bailemos Un Vals,65,9
+1978,Paris,https://eurovision.tv/event/paris-1978,8,United Kingdom,Co-Co,The Bad Old Days,61,11
+1978,Paris,https://eurovision.tv/event/paris-1978,9,Switzerland,Carole Vinci,Vivre,65,9
+1978,Paris,https://eurovision.tv/event/paris-1978,10,Belgium,Jean Vallée,L'amour ça Fait Chanter La Vie,125,2
+1978,Paris,https://eurovision.tv/event/paris-1978,11,The Netherlands,Harmony,'t Is Ok,37,13
+1978,Paris,https://eurovision.tv/event/paris-1978,12,Turkey,Nazar,Sevinçe,2,18
+1978,Paris,https://eurovision.tv/event/paris-1978,13,Germany,Ireen Sheer,Feuer,84,6
+1978,Paris,https://eurovision.tv/event/paris-1978,14,Monaco,Caline and Olivier Toussaint,Les Jardins De Monaco,107,4
+1978,Paris,https://eurovision.tv/event/paris-1978,15,Greece,Tania Tsanaklidou,Charlie Chaplin,66,8
+1978,Paris,https://eurovision.tv/event/paris-1978,16,Denmark,Mabel,Boom Boom,13,16
+1978,Paris,https://eurovision.tv/event/paris-1978,17,Luxembourg,Baccara,Parlez-vous Français?,73,7
+1978,Paris,https://eurovision.tv/event/paris-1978,18,Israel,Izhar Cohen and the Alphabeta,Abanibi,157,1
+1978,Paris,https://eurovision.tv/event/paris-1978,19,Austria,Springtime,Mrs. Caroline Robinson,14,15
+1978,Paris,https://eurovision.tv/event/paris-1978,20,Sweden,Björn Skifs,Det Blir Alltid Värre Framåt Natten,26,14
+1977,London,https://eurovision.tv/event/london-1977,1,Ireland,The Swarbriggs Plus Two,It's Nice To Be In Love Again,119,3
+1977,London,https://eurovision.tv/event/london-1977,2,Monaco,Michèle Torr,Une Petite Française,96,4
+1977,London,https://eurovision.tv/event/london-1977,3,The Netherlands,Heddy Lester,De Mallemolen,35,12
+1977,London,https://eurovision.tv/event/london-1977,4,Austria,Schmetterlinge,Boom Boom Boomerang,11,17
+1977,London,https://eurovision.tv/event/london-1977,5,Norway,Anita Skorgan,Casanova,18,14
+1977,London,https://eurovision.tv/event/london-1977,6,Germany,Silver Convention,Telegram,55,8
+1977,London,https://eurovision.tv/event/london-1977,7,Luxembourg,Anne Marie B.,Frère Jacques,17,16
+1977,London,https://eurovision.tv/event/london-1977,8,Portugal,Os Amigos,Portugal No Coração,18,14
+1977,London,https://eurovision.tv/event/london-1977,9,United Kingdom,Lynsey de Paul and Mike Moran,Rock Bottom,121,2
+1977,London,https://eurovision.tv/event/london-1977,10,Greece,"Pascalis, Marianna, Robert and Bessy",Mathema Solfege,92,5
+1977,London,https://eurovision.tv/event/london-1977,11,Israel,Ilanit,Ah-haa-vah Hee Shir Lish-naa-yim,49,11
+1977,London,https://eurovision.tv/event/london-1977,12,Switzerland,Pepe Lienhard Band,Swiss Lady,71,6
+1977,London,https://eurovision.tv/event/london-1977,13,Sweden,Forbes,Beatles,2,18
+1977,London,https://eurovision.tv/event/london-1977,14,Spain,Micky,Enseñame A Cantar,52,9
+1977,London,https://eurovision.tv/event/london-1977,15,Italy,Mia Martini,Liberà,33,13
+1977,London,https://eurovision.tv/event/london-1977,16,Finland,Monica Aspelund,Lapponia,50,10
+1977,London,https://eurovision.tv/event/london-1977,17,Belgium,Dream Express,"A Million In One, Two, Three",69,7
+1977,London,https://eurovision.tv/event/london-1977,18,France,Marie Myriam,L'oiseau Et L'enfant,136,1
+1976,The Hague,https://eurovision.tv/event/the-hague-1976,1,United Kingdom,Brotherhood of Man,Save Your Kisses For Me,164,1
+1976,The Hague,https://eurovision.tv/event/the-hague-1976,2,Switzerland,"Peter, Sue and Marc","Djambo, Djambo",91,4
+1976,The Hague,https://eurovision.tv/event/the-hague-1976,3,Germany,Les Humphries Singers,"Sing, Sang, Song",12,15
+1976,The Hague,https://eurovision.tv/event/the-hague-1976,4,Israel,"Chocolate, Menta, Mastik",Emor Shalom,77,6
+1976,The Hague,https://eurovision.tv/event/the-hague-1976,5,Luxembourg,Jürgen Marcus,Chansons Pour Ceux Qui S'aiment,17,14
+1976,The Hague,https://eurovision.tv/event/the-hague-1976,6,Belgium,Pierre Rapsat,Judy Et Cie.,68,8
+1976,The Hague,https://eurovision.tv/event/the-hague-1976,7,Ireland,Red Hurley,When,54,10
+1976,The Hague,https://eurovision.tv/event/the-hague-1976,8,The Netherlands,Sandra Reemer,The Party's Over Now,56,9
+1976,The Hague,https://eurovision.tv/event/the-hague-1976,9,Norway,Anne-Karine Ström,Mata Hari,7,18
+1976,The Hague,https://eurovision.tv/event/the-hague-1976,10,Greece,Mariza Koch,"Panaghia Mou, Panaghia Mou",20,13
+1976,The Hague,https://eurovision.tv/event/the-hague-1976,11,Finland,Fredi and The Friends,Pump-pump,44,11
+1976,The Hague,https://eurovision.tv/event/the-hague-1976,12,Spain,Braulio,Sobran Las Palabras,11,16
+1976,The Hague,https://eurovision.tv/event/the-hague-1976,13,Italy,Romina and Al Bano,We'll Live It All Again,69,7
+1976,The Hague,https://eurovision.tv/event/the-hague-1976,14,Austria,Waterloo and Robinson,My Little World,80,5
+1976,The Hague,https://eurovision.tv/event/the-hague-1976,15,Portugal,Carlos do Carmo,Uma Flor De Verde Pinho,24,12
+1976,The Hague,https://eurovision.tv/event/the-hague-1976,16,Monaco,Mary Christy,"Toi, La Musique Et Moi",93,3
+1976,The Hague,https://eurovision.tv/event/the-hague-1976,17,France,Catherine Ferry,"Un, Deux, Trois",147,2
+1976,The Hague,https://eurovision.tv/event/the-hague-1976,18,Yugoslavia,Ambasadori,Ne Mogu Skriti Svoju Bol,10,17
+1975,Stockholm,https://eurovision.tv/event/stockholm-1975,1,The Netherlands,Teach-In,Ding-A-Dong,152,1
+1975,Stockholm,https://eurovision.tv/event/stockholm-1975,2,Ireland,The Swarbriggs,That's What Friends Are For,68,9
+1975,Stockholm,https://eurovision.tv/event/stockholm-1975,3,France,Nicole Rieu,Et Bonjour à Toi L'artiste,91,4
+1975,Stockholm,https://eurovision.tv/event/stockholm-1975,4,Germany,Joy Fleming,Ein Lied Kann Eine Brücke Sein,15,17
+1975,Stockholm,https://eurovision.tv/event/stockholm-1975,5,Luxembourg,Géraldine,Toi,84,5
+1975,Stockholm,https://eurovision.tv/event/stockholm-1975,6,Norway,Ellen Nikolaysen,You Touched My Life With Summer,11,18
+1975,Stockholm,https://eurovision.tv/event/stockholm-1975,7,Switzerland,Simone Drexel,Mikado,77,6
+1975,Stockholm,https://eurovision.tv/event/stockholm-1975,8,Yugoslavia,Pepel In Kri,Dan Ljubezni,22,13
+1975,Stockholm,https://eurovision.tv/event/stockholm-1975,9,United Kingdom,The Shadows,Let Me Be The One,138,2
+1975,Stockholm,https://eurovision.tv/event/stockholm-1975,10,Malta,Renato,Singing This Song,32,12
+1975,Stockholm,https://eurovision.tv/event/stockholm-1975,11,Belgium,Ann Christy,Gelukkig Zijn,17,15
+1975,Stockholm,https://eurovision.tv/event/stockholm-1975,12,Israel,Shlomo Artzi,At Ve'ani,40,11
+1975,Stockholm,https://eurovision.tv/event/stockholm-1975,13,Turkey,Semiha Yanki,Seninle Bir Dakika,3,19
+1975,Stockholm,https://eurovision.tv/event/stockholm-1975,14,Monaco,Sophie,Une Chanson C'est Une Lettre,22,13
+1975,Stockholm,https://eurovision.tv/event/stockholm-1975,15,Finland,Pihasoittajat,Old Man Fiddle,74,7
+1975,Stockholm,https://eurovision.tv/event/stockholm-1975,16,Portugal,Duarte Mendes,Madrugada,16,16
+1975,Stockholm,https://eurovision.tv/event/stockholm-1975,17,Spain,Sergio y Estíbaliz,Tú Volverás,53,10
+1975,Stockholm,https://eurovision.tv/event/stockholm-1975,18,Sweden,Lars Berghagen and the Dolls,"Jennie, Jennie",72,8
+1975,Stockholm,https://eurovision.tv/event/stockholm-1975,19,Italy,Wess and Dori Ghezzi,Era,115,3
+1974,Brighton,https://eurovision.tv/event/brighton-1974,1,Finland,Carita,Äla Mene Pois (Keep Me Warm),4,13
+1974,Brighton,https://eurovision.tv/event/brighton-1974,2,United Kingdom,Olivia Newton-John,Long Live Love,14,4
+1974,Brighton,https://eurovision.tv/event/brighton-1974,3,Spain,Peret,Canta Y Se Feliz,10,9
+1974,Brighton,https://eurovision.tv/event/brighton-1974,4,Norway,Anne-Karine Ström and the Bendik Singers,The First Day Of Love,3,14
+1974,Brighton,https://eurovision.tv/event/brighton-1974,5,Greece,Marinella,"Krassi, Thalassa Ke T'agori Mou",7,11
+1974,Brighton,https://eurovision.tv/event/brighton-1974,6,Israel,Poogy,Natati La Khaiai,11,7
+1974,Brighton,https://eurovision.tv/event/brighton-1974,7,Yugoslavia,Korni,Generacija 42,6,12
+1974,Brighton,https://eurovision.tv/event/brighton-1974,8,Sweden,ABBA,Waterloo,24,1
+1974,Brighton,https://eurovision.tv/event/brighton-1974,9,Luxembourg,Ireen Sheer,"Bye, Bye, I Love You",14,4
+1974,Brighton,https://eurovision.tv/event/brighton-1974,10,Monaco,Romuald,Celui Qui Reste Et Celui Qui S'en Va,14,4
+1974,Brighton,https://eurovision.tv/event/brighton-1974,11,Belgium,Jacques Hustin,Fleur De Liberté,10,9
+1974,Brighton,https://eurovision.tv/event/brighton-1974,12,The Netherlands,Mouth and MacNeal,I See A Star,15,3
+1974,Brighton,https://eurovision.tv/event/brighton-1974,13,Ireland,Tina,Cross Your Heart,11,7
+1974,Brighton,https://eurovision.tv/event/brighton-1974,14,Germany,Cindy und Bert,Die Sommermelodie,3,14
+1974,Brighton,https://eurovision.tv/event/brighton-1974,15,Switzerland,Piera Martell,Mein Ruf Nach Dir,3,14
+1974,Brighton,https://eurovision.tv/event/brighton-1974,16,Portugal,Paulo de Carvalho,E Depois Do Adeus,3,14
+1974,Brighton,https://eurovision.tv/event/brighton-1974,17,Italy,Gigliola Cinquetti,Si,18,2
+1973,Luxembourg,https://eurovision.tv/event/luxembourg-1973,1,Finland,Marion Rung,Tom Tom Tom,93,6
+1973,Luxembourg,https://eurovision.tv/event/luxembourg-1973,2,Belgium,Nicole and Hugo,"Baby, Baby",58,17
+1973,Luxembourg,https://eurovision.tv/event/luxembourg-1973,3,Portugal,Fernando Tordo,Tourada,80,10
+1973,Luxembourg,https://eurovision.tv/event/luxembourg-1973,4,Germany,Gitte,Junger Tag,85,8
+1973,Luxembourg,https://eurovision.tv/event/luxembourg-1973,5,Norway,Bendik Singers,It's Just A Game,89,7
+1973,Luxembourg,https://eurovision.tv/event/luxembourg-1973,6,Monaco,Marie,Un Train Qui Part,85,8
+1973,Luxembourg,https://eurovision.tv/event/luxembourg-1973,7,Spain,Mocedades,Eres Tú,125,2
+1973,Luxembourg,https://eurovision.tv/event/luxembourg-1973,8,Switzerland,Patrick Juvet,"Je Me Vais Marier, Marie",79,12
+1973,Luxembourg,https://eurovision.tv/event/luxembourg-1973,9,Yugoslavia,Zdravko Colic,Gori Vatra,65,15
+1973,Luxembourg,https://eurovision.tv/event/luxembourg-1973,10,Italy,Massimo Ranieri,Chi Sarà Con Te,74,13
+1973,Luxembourg,https://eurovision.tv/event/luxembourg-1973,11,Luxembourg,Anne-Marie David,Tu Te Reconnaîtras,129,1
+1973,Luxembourg,https://eurovision.tv/event/luxembourg-1973,12,Sweden,The Nova and The Dolls,You're Summer,94,5
+1973,Luxembourg,https://eurovision.tv/event/luxembourg-1973,13,The Netherlands,Ben Cramer,De Oude Muzikant,69,14
+1973,Luxembourg,https://eurovision.tv/event/luxembourg-1973,14,Ireland,Maxi,Do I Dream?,80,10
+1973,Luxembourg,https://eurovision.tv/event/luxembourg-1973,15,United Kingdom,Cliff Richard,Power To All Our Friends,123,3
+1973,Luxembourg,https://eurovision.tv/event/luxembourg-1973,16,France,Martine Clémenceau,Sans Toi,65,15
+1973,Luxembourg,https://eurovision.tv/event/luxembourg-1973,17,Israel,Ilanit,Ey-sham,97,4
+1972,Edinburgh,https://eurovision.tv/event/edinburgh-1972,1,Germany,Mary Roos,Nur Die Liebe Läßt Uns Leben,107,3
+1972,Edinburgh,https://eurovision.tv/event/edinburgh-1972,2,France,Betty Mars,Comé-comédie,81,11
+1972,Edinburgh,https://eurovision.tv/event/edinburgh-1972,3,Ireland,Sandie Jones,Ceol On Ghrá,72,15
+1972,Edinburgh,https://eurovision.tv/event/edinburgh-1972,4,Spain,Jaime Morey,Amanece,83,10
+1972,Edinburgh,https://eurovision.tv/event/edinburgh-1972,5,United Kingdom,The New Seekers,"Beg, Steal Or Borrow",114,2
+1972,Edinburgh,https://eurovision.tv/event/edinburgh-1972,6,Norway,Grethe Kausland and Benny Borg,Småting,73,14
+1972,Edinburgh,https://eurovision.tv/event/edinburgh-1972,7,Portugal,Carlos Mendes,A Festa Da Vida,90,7
+1972,Edinburgh,https://eurovision.tv/event/edinburgh-1972,8,Switzerland,Véronique Müller,C'est La Chanson De Mon Amour,88,8
+1972,Edinburgh,https://eurovision.tv/event/edinburgh-1972,9,Malta,Helen and Joseph,L-imhabba,48,18
+1972,Edinburgh,https://eurovision.tv/event/edinburgh-1972,10,Finland,Päivi Paunu and Kim Floor,Muistathan,78,12
+1972,Edinburgh,https://eurovision.tv/event/edinburgh-1972,11,Austria,The Milestones,Falter Im Wind,100,5
+1972,Edinburgh,https://eurovision.tv/event/edinburgh-1972,12,Italy,Nicola di Bari,I Giorni Dell' Arcobaleno,92,6
+1972,Edinburgh,https://eurovision.tv/event/edinburgh-1972,13,Yugoslavia,Tereza,Muzika I Ti,87,9
+1972,Edinburgh,https://eurovision.tv/event/edinburgh-1972,14,Sweden,Family Four,Härliga Sommardag,75,13
+1972,Edinburgh,https://eurovision.tv/event/edinburgh-1972,15,Monaco,Anne-Marie Godart and Peter MacLane,Comme On S'aime,65,16
+1972,Edinburgh,https://eurovision.tv/event/edinburgh-1972,16,Belgium,Serge and Christine Ghisoland,À La Folie Ou Pas Du Tout,55,17
+1972,Edinburgh,https://eurovision.tv/event/edinburgh-1972,17,Luxembourg,Vicky Leandros,Après Toi,128,1
+1972,Edinburgh,https://eurovision.tv/event/edinburgh-1972,18,The Netherlands,Sandra and Andres,Als Het Om De Liefde Gaat,106,4
+1971,Dublin,https://eurovision.tv/event/dublin-1971,1,Austria,Marianne Mendt,Musik,66,16
+1971,Dublin,https://eurovision.tv/event/dublin-1971,2,Malta,Joe Grech,Marija L-maltija,52,18
+1971,Dublin,https://eurovision.tv/event/dublin-1971,3,Monaco,Séverine,"Un Banc, Un Arbre, Une Rue",128,1
+1971,Dublin,https://eurovision.tv/event/dublin-1971,4,Switzerland,"Peter, Sue and Marc",Les Illusions De Nos Vingt Ans,78,12
+1971,Dublin,https://eurovision.tv/event/dublin-1971,5,Germany,Katja Ebstein,Diese Welt,100,3
+1971,Dublin,https://eurovision.tv/event/dublin-1971,6,Spain,Karina,En Un Mundo Nuevo,116,2
+1971,Dublin,https://eurovision.tv/event/dublin-1971,7,France,Serge Lama,Un Jardin Sur La Terre,82,10
+1971,Dublin,https://eurovision.tv/event/dublin-1971,8,Luxembourg,Monique Melsen,"Pomme, Pomme, Pomme",70,13
+1971,Dublin,https://eurovision.tv/event/dublin-1971,9,United Kingdom,Clodagh Rodgers,Jack In The Box,98,4
+1971,Dublin,https://eurovision.tv/event/dublin-1971,10,Belgium,Lily Castel and Jacques Raymond,"Goeie Morgen, Morgen",68,14
+1971,Dublin,https://eurovision.tv/event/dublin-1971,11,Italy,Massimo Ranieri,L'amore è Un Attimo,91,5
+1971,Dublin,https://eurovision.tv/event/dublin-1971,12,Sweden,Family Four,Vita Vidder,85,6
+1971,Dublin,https://eurovision.tv/event/dublin-1971,13,Ireland,Angela Farrell,One Day Love,79,11
+1971,Dublin,https://eurovision.tv/event/dublin-1971,14,The Netherlands,Saskia and Serge,De Tijd,85,6
+1971,Dublin,https://eurovision.tv/event/dublin-1971,15,Portugal,Tonicha,Menina Do Alto Da Serra,83,9
+1971,Dublin,https://eurovision.tv/event/dublin-1971,16,Yugoslavia,Krunoslav Slabinac,Tvoj Djecak Je Tuzan,68,14
+1971,Dublin,https://eurovision.tv/event/dublin-1971,17,Finland,Markku Aro and Koivisto Sisters,Tie Uuteen Päivään,84,8
+1971,Dublin,https://eurovision.tv/event/dublin-1971,18,Norway,Hanne Krogh,Lykken Er...,65,17
+1970,Amsterdam,https://eurovision.tv/event/amsterdam-1970,1,The Netherlands,Patricia and Hearts of Soul,Waterman,7,7
+1970,Amsterdam,https://eurovision.tv/event/amsterdam-1970,2,Switzerland,Henri Dès,Retour,8,4
+1970,Amsterdam,https://eurovision.tv/event/amsterdam-1970,3,Italy,Gianni Morandi,Occhi Di Ragazza,5,8
+1970,Amsterdam,https://eurovision.tv/event/amsterdam-1970,4,Yugoslavia,Eva Sren,"Pridi, Dala Ti Bom Cvet",4,11
+1970,Amsterdam,https://eurovision.tv/event/amsterdam-1970,5,Belgium,Jean Vallée,Viens L'oublier,5,8
+1970,Amsterdam,https://eurovision.tv/event/amsterdam-1970,6,France,Guy Bonnet,Marie Blanche,8,4
+1970,Amsterdam,https://eurovision.tv/event/amsterdam-1970,7,United Kingdom,Mary Hopkin,"Knock, Knock (who's There?)",26,2
+1970,Amsterdam,https://eurovision.tv/event/amsterdam-1970,8,Luxembourg,David-Alexandre Winter,Je Suis Tombé Du Ciel,NA,12
+1970,Amsterdam,https://eurovision.tv/event/amsterdam-1970,9,Spain,Julio Iglesias,Gwendolyne,8,4
+1970,Amsterdam,https://eurovision.tv/event/amsterdam-1970,10,Monaco,Dominique Dussault,Marlène,5,8
+1970,Amsterdam,https://eurovision.tv/event/amsterdam-1970,11,Germany,Katja Ebstein,Wunder Gibt Es Immer Wieder,12,3
+1970,Amsterdam,https://eurovision.tv/event/amsterdam-1970,12,Ireland,Dana,All Kinds Of Everything,32,1
+1969,Madrid,https://eurovision.tv/event/madrid-1969,1,Yugoslavia,Ivan,Pozdrav Svijetu,5,13
+1969,Madrid,https://eurovision.tv/event/madrid-1969,2,Luxembourg,Romuald,Cathérine,7,11
+1969,Madrid,https://eurovision.tv/event/madrid-1969,3,Spain,Salomé,Vivo Cantando,18,1
+1969,Madrid,https://eurovision.tv/event/madrid-1969,4,Monaco,Jean-Jacques,"Maman, Maman",11,6
+1969,Madrid,https://eurovision.tv/event/madrid-1969,5,Ireland,Muriel Day and the Lindsays,The Wages Of Love,10,7
+1969,Madrid,https://eurovision.tv/event/madrid-1969,6,Italy,Iva Zanicchi,Due Grosse Lacrime Bianche,5,13
+1969,Madrid,https://eurovision.tv/event/madrid-1969,7,United Kingdom,Lulu,Boom Bang-a-bang,18,1
+1969,Madrid,https://eurovision.tv/event/madrid-1969,8,The Netherlands,Lenny Kuhr,De Troubadour,18,1
+1969,Madrid,https://eurovision.tv/event/madrid-1969,9,Sweden,Tommy Körberg,"Judy, Min Vän",8,9
+1969,Madrid,https://eurovision.tv/event/madrid-1969,10,Belgium,Louis Neefs,Jennifer Jennings,10,7
+1969,Madrid,https://eurovision.tv/event/madrid-1969,11,Switzerland,Paola del Medico,"Bonjour, Bonjour",13,5
+1969,Madrid,https://eurovision.tv/event/madrid-1969,12,Norway,Kirsti Sparboe,"Oj, Oj, Oj, Så Glad, Jeg Skal Bli",1,16
+1969,Madrid,https://eurovision.tv/event/madrid-1969,13,Germany,Siw Malmkvist,Primaballerina,8,9
+1969,Madrid,https://eurovision.tv/event/madrid-1969,14,France,Frida Boccara,"Un Jour, Un Enfant",18,1
+1969,Madrid,https://eurovision.tv/event/madrid-1969,15,Portugal,Simone de Oliveira,Desfolhada Portuguesa,4,15
+1969,Madrid,https://eurovision.tv/event/madrid-1969,16,Finland,Jarkko and Laura,Kuin Silloin Ennen,6,12
+1968,London,https://eurovision.tv/event/london-1968,1,Portugal,Carlos Mendes,Verão,5,11
+1968,London,https://eurovision.tv/event/london-1968,2,The Netherlands,Ronnie Tober,Morgen,1,16
+1968,London,https://eurovision.tv/event/london-1968,3,Belgium,Claude Lombard,Quand Tu Reviendras,8,7
+1968,London,https://eurovision.tv/event/london-1968,4,Austria,Karel Gott,Tausend Fenster,2,13
+1968,London,https://eurovision.tv/event/london-1968,5,Luxembourg,Chris Baldo and Sophie Garel,Nous Vivrons D'amour,5,11
+1968,London,https://eurovision.tv/event/london-1968,6,Switzerland,Gianni Mascolo,Guardando Il Sole,2,13
+1968,London,https://eurovision.tv/event/london-1968,7,Monaco,Line and Willy,A Chacun Sa Chanson,8,7
+1968,London,https://eurovision.tv/event/london-1968,8,Sweden,Claes-Göran Hederström,"Det Börjar Verka Kärlek, Banne Mej",15,5
+1968,London,https://eurovision.tv/event/london-1968,9,Finland,Kristina Hautala,Kun Kello Käy,1,16
+1968,London,https://eurovision.tv/event/london-1968,10,France,Isabelle Aubret,La Source,20,3
+1968,London,https://eurovision.tv/event/london-1968,11,Italy,Sergio Endrigo,Marianne,7,10
+1968,London,https://eurovision.tv/event/london-1968,12,United Kingdom,Cliff Richard,Congratulations,28,2
+1968,London,https://eurovision.tv/event/london-1968,13,Norway,Odd Børre,Stress,2,13
+1968,London,https://eurovision.tv/event/london-1968,14,Ireland,Pat McGeegan,Chance Of A Lifetime,18,4
+1968,London,https://eurovision.tv/event/london-1968,15,Spain,Massiel,"La, La, La...",29,1
+1968,London,https://eurovision.tv/event/london-1968,16,Germany,Wencke Myhre,Ein Hoch Der Liebe,11,6
+1968,London,https://eurovision.tv/event/london-1968,17,Yugoslavia,Luci Kapurso and Hamo Hajdarhodzic,Jedan Dan,8,7
+1967,Vienna,https://eurovision.tv/event/vienna-1967,1,The Netherlands,Thérèse Steinmetz,Ring-dinge,2,14
+1967,Vienna,https://eurovision.tv/event/vienna-1967,2,Luxembourg,Vicky,L'amour Est Bleu,17,4
+1967,Vienna,https://eurovision.tv/event/vienna-1967,3,Austria,Peter Horten,Warum Es Hunderttausend Sterne Gibt,2,14
+1967,Vienna,https://eurovision.tv/event/vienna-1967,4,France,Noëlle Cordier,Il Doit Faire Beau Là-bas,20,3
+1967,Vienna,https://eurovision.tv/event/vienna-1967,5,Portugal,Eduardo Nascimento,O Vento Mudou,3,12
+1967,Vienna,https://eurovision.tv/event/vienna-1967,6,Switzerland,Géraldine,Quel Coeur Vas-tu Briser?,NA,17
+1967,Vienna,https://eurovision.tv/event/vienna-1967,7,Sweden,Östen Warnebring,Som En Dröm,7,8
+1967,Vienna,https://eurovision.tv/event/vienna-1967,8,Finland,Fredi,Varjoon-suojaan,3,12
+1967,Vienna,https://eurovision.tv/event/vienna-1967,9,Germany,Inge Brück,Anouschka,7,8
+1967,Vienna,https://eurovision.tv/event/vienna-1967,10,Belgium,Louis Neefs,Ik Heb Zorgen,8,7
+1967,Vienna,https://eurovision.tv/event/vienna-1967,11,United Kingdom,Sandie Shaw,Puppet On A String,47,1
+1967,Vienna,https://eurovision.tv/event/vienna-1967,12,Spain,Raphael,Hablemos Del Amor,9,6
+1967,Vienna,https://eurovision.tv/event/vienna-1967,13,Norway,Kirsti Sparboe,Dukkemann,2,14
+1967,Vienna,https://eurovision.tv/event/vienna-1967,14,Monaco,Minouche Barelli,Boum-badaboum,10,5
+1967,Vienna,https://eurovision.tv/event/vienna-1967,15,Yugoslavia,Lado Leskovar,Vse Roze Sveta,7,8
+1967,Vienna,https://eurovision.tv/event/vienna-1967,16,Italy,Claudio Villa,Non Andare Più Lontano,4,11
+1967,Vienna,https://eurovision.tv/event/vienna-1967,17,Ireland,Sean Dunphy,If I Could Choose,22,2
+1966,Luxembourg,https://eurovision.tv/event/luxembourg-1966,1,Germany,Margot Eskens,Die Zeiger Der Uhr,7,10
+1966,Luxembourg,https://eurovision.tv/event/luxembourg-1966,2,Denmark,Ulla Pia,"Stop, Ja Stop - Ja Stop, Mens Legen Er Go",4,14
+1966,Luxembourg,https://eurovision.tv/event/luxembourg-1966,3,Belgium,Tonia,"Un Peu De Poivre, Un Peu De Sel",14,4
+1966,Luxembourg,https://eurovision.tv/event/luxembourg-1966,4,Luxembourg,Michèle Torr,Ce Soir Je T'attendais,7,10
+1966,Luxembourg,https://eurovision.tv/event/luxembourg-1966,5,Yugoslavia,Berta Ambroz,Brez Besed,9,7
+1966,Luxembourg,https://eurovision.tv/event/luxembourg-1966,6,Norway,Åse Kleveland,Intet Er Nytt Under Solen,15,3
+1966,Luxembourg,https://eurovision.tv/event/luxembourg-1966,7,Finland,Ann-Christine Nyström,Play-boy,7,10
+1966,Luxembourg,https://eurovision.tv/event/luxembourg-1966,8,Portugal,Madalena Iglesias,Ele E Ela,6,13
+1966,Luxembourg,https://eurovision.tv/event/luxembourg-1966,9,Austria,Udo Jürgens,Merci Chérie,31,1
+1966,Luxembourg,https://eurovision.tv/event/luxembourg-1966,10,Sweden,Lill Lindfors and Svante Thuresson,Nygammal Vals Eller Hip Man Svinaherde,16,2
+1966,Luxembourg,https://eurovision.tv/event/luxembourg-1966,11,Spain,Raphael,Yo Soy Aquél,9,7
+1966,Luxembourg,https://eurovision.tv/event/luxembourg-1966,12,Switzerland,Madeleine Pascal,Ne Vois-tu Pas?,12,6
+1966,Luxembourg,https://eurovision.tv/event/luxembourg-1966,13,Monaco,Tereza,Bien Plus Fort,NA,17
+1966,Luxembourg,https://eurovision.tv/event/luxembourg-1966,14,Italy,Domenico Modugno,Dio Come Ti Amo,NA,17
+1966,Luxembourg,https://eurovision.tv/event/luxembourg-1966,15,France,Dominique Walter,Chez Nous,1,16
+1966,Luxembourg,https://eurovision.tv/event/luxembourg-1966,16,The Netherlands,Milly Scott,Fernando En Philippo,2,15
+1966,Luxembourg,https://eurovision.tv/event/luxembourg-1966,17,Ireland,Dickie Rock,Come Back To Stay,14,4
+1966,Luxembourg,https://eurovision.tv/event/luxembourg-1966,18,United Kingdom,Kenneth McKellar,A Man Without Love,8,9
+1965,Naples,https://eurovision.tv/event/naples-1965,1,The Netherlands,Conny Van den bos,Het Is Genoeg,5,11
+1965,Naples,https://eurovision.tv/event/naples-1965,2,United Kingdom,Kathy Kirby,I Belong,26,2
+1965,Naples,https://eurovision.tv/event/naples-1965,3,Spain,Conchita Bautista,"Qué Bueno, Qué Bueno",NA,15
+1965,Naples,https://eurovision.tv/event/naples-1965,4,Ireland,Butch Moore,I'm Walking The Streets In The Rain,11,6
+1965,Naples,https://eurovision.tv/event/naples-1965,5,Germany,Ulla Wiesner,"Paradies, Wo Bist Du?",NA,15
+1965,Naples,https://eurovision.tv/event/naples-1965,6,Austria,Udo Jürgens,"Sag Ihr, Ich Lass' Sie Grüßen",16,4
+1965,Naples,https://eurovision.tv/event/naples-1965,7,Norway,Kirsti Sparboe,Karusell,1,13
+1965,Naples,https://eurovision.tv/event/naples-1965,8,Belgium,Lize Marke,Als Het Weer Lente Is,NA,15
+1965,Naples,https://eurovision.tv/event/naples-1965,9,Monaco,Marjorie Noël,Va Dire à L'amour,7,9
+1965,Naples,https://eurovision.tv/event/naples-1965,10,Sweden,Ingvar Wixell,Absent Friend,6,10
+1965,Naples,https://eurovision.tv/event/naples-1965,11,France,Guy Mardel,N'avoue Jamais,22,3
+1965,Naples,https://eurovision.tv/event/naples-1965,12,Portugal,Simone de Oliviera,Sol De Inverno,1,13
+1965,Naples,https://eurovision.tv/event/naples-1965,13,Italy,Bobby Solo,"Se Piangi, Se Ridi",15,5
+1965,Naples,https://eurovision.tv/event/naples-1965,14,Denmark,Birgit Brüel,For Din Skyld,10,7
+1965,Naples,https://eurovision.tv/event/naples-1965,15,Luxembourg,France Gall,"Poupée De Cire, Poupée De Son",32,1
+1965,Naples,https://eurovision.tv/event/naples-1965,16,Finland,Viktor Klimenko,Aurinko Laskee Länteen,NA,15
+1965,Naples,https://eurovision.tv/event/naples-1965,17,Yugoslavia,Vice Vukov,Ceznja,2,12
+1965,Naples,https://eurovision.tv/event/naples-1965,18,Switzerland,Yovanna,Non à Jamais Sans Toi,8,8
+1964,Copenhagen,https://eurovision.tv/event/copenhagen-1964,1,Luxembourg,Hugues Aufray,Dès Que Le Printemps Revient,14,4
+1964,Copenhagen,https://eurovision.tv/event/copenhagen-1964,2,The Netherlands,Anneke Grönloh,Jij Bent Mijn Leven,2,10
+1964,Copenhagen,https://eurovision.tv/event/copenhagen-1964,3,Norway,Arne Bendiksen,Spiral,6,8
+1964,Copenhagen,https://eurovision.tv/event/copenhagen-1964,4,Denmark,Bjørn Tidmand,Sangen Om Dig,4,9
+1964,Copenhagen,https://eurovision.tv/event/copenhagen-1964,5,Finland,Lasse Mårtenson,Laiskotellen,9,7
+1964,Copenhagen,https://eurovision.tv/event/copenhagen-1964,6,Austria,Udo Jürgens,"Warum Nur, Warum?",11,6
+1964,Copenhagen,https://eurovision.tv/event/copenhagen-1964,7,France,Rachel,Le Chant De Mallory,14,4
+1964,Copenhagen,https://eurovision.tv/event/copenhagen-1964,8,United Kingdom,Matt Monro,I Love The Little Things,17,2
+1964,Copenhagen,https://eurovision.tv/event/copenhagen-1964,9,Germany,Nora Nova,Man Gewöhnt Sich So Schnell An Das Schöne,NA,13
+1964,Copenhagen,https://eurovision.tv/event/copenhagen-1964,10,Monaco,Romuald,Où Sont-elles Passées?,15,3
+1964,Copenhagen,https://eurovision.tv/event/copenhagen-1964,11,Portugal,António Calvário,Oração,NA,13
+1964,Copenhagen,https://eurovision.tv/event/copenhagen-1964,12,Italy,Gigliola Cinquetti,Non Ho L'étà,49,1
+1964,Copenhagen,https://eurovision.tv/event/copenhagen-1964,13,Yugoslavia,Sabahudin Kurt,Zivot Je Sklopio Krug,NA,13
+1964,Copenhagen,https://eurovision.tv/event/copenhagen-1964,14,Switzerland,Anita Traversi,I Miei Pensieri,NA,13
+1964,Copenhagen,https://eurovision.tv/event/copenhagen-1964,15,Belgium,Robert Cogoi,Près De Ma Rivière,2,10
+1964,Copenhagen,https://eurovision.tv/event/copenhagen-1964,16,Spain,"Tim, Nelly and Tony",Caracola,1,12
+1963,London,https://eurovision.tv/event/london-1963,1,United Kingdom,Ronnie Carroll,Say Wonderful Things,28,4
+1963,London,https://eurovision.tv/event/london-1963,2,The Netherlands,Annie Palmen,Een Speeldoos,NA,13
+1963,London,https://eurovision.tv/event/london-1963,3,Germany,Heidi Brühl,Marcel,5,9
+1963,London,https://eurovision.tv/event/london-1963,4,Austria,Carmela Corren,Vielleicht Geschieht Ein Wunder,16,7
+1963,London,https://eurovision.tv/event/london-1963,5,Norway,Anita Thallaug,Solhverv,NA,13
+1963,London,https://eurovision.tv/event/london-1963,6,Italy,Emilio Pericoli,Uno Per Tutte,37,3
+1963,London,https://eurovision.tv/event/london-1963,7,Finland,Laila Halme,Muistojeni Laulu,NA,13
+1963,London,https://eurovision.tv/event/london-1963,8,Denmark,Grethe and Jørgen Ingmann,Dansevise,42,1
+1963,London,https://eurovision.tv/event/london-1963,9,Yugoslavia,Vice Vukov,Brodovi,3,11
+1963,London,https://eurovision.tv/event/london-1963,10,Switzerland,Esther Ofarim,T'en Va Pas,40,2
+1963,London,https://eurovision.tv/event/london-1963,11,France,Alain Barrière,Elle était Si Jolie,25,5
+1963,London,https://eurovision.tv/event/london-1963,12,Spain,José Guardiola,Algo Prodigioso,2,12
+1963,London,https://eurovision.tv/event/london-1963,13,Sweden,Monica Zetterlund,En Gång I Stockholm,NA,13
+1963,London,https://eurovision.tv/event/london-1963,14,Belgium,Jacques Raymond,Waarom,4,10
+1963,London,https://eurovision.tv/event/london-1963,15,Monaco,Françoise Hardy,L'amour S'en Va,25,5
+1963,London,https://eurovision.tv/event/london-1963,16,Luxembourg,Nana Mouskouri,A Force De Prier,13,8
+1962,Luxembourg,https://eurovision.tv/event/luxembourg-1962,1,Finland,Marion Rung,Tipi-tii,4,7
+1962,Luxembourg,https://eurovision.tv/event/luxembourg-1962,2,Belgium,Fud Leclerc,Ton Nom,NA,13
+1962,Luxembourg,https://eurovision.tv/event/luxembourg-1962,3,Spain,Victor Balaguer,Llámame,NA,13
+1962,Luxembourg,https://eurovision.tv/event/luxembourg-1962,4,Austria,Eleonore Schwarz,Nur In Der Wiener Luft,NA,13
+1962,Luxembourg,https://eurovision.tv/event/luxembourg-1962,5,Denmark,Ellen Winther,Vuggevise,2,10
+1962,Luxembourg,https://eurovision.tv/event/luxembourg-1962,6,Sweden,Inger Berggren,Sol Och Vår,4,7
+1962,Luxembourg,https://eurovision.tv/event/luxembourg-1962,7,Germany,Conny Froboess,Zwei Kleine Italiener,9,6
+1962,Luxembourg,https://eurovision.tv/event/luxembourg-1962,8,The Netherlands,De Spelbrekers,Katinka,NA,13
+1962,Luxembourg,https://eurovision.tv/event/luxembourg-1962,9,France,Isabelle Aubret,Un Premier Amour,26,1
+1962,Luxembourg,https://eurovision.tv/event/luxembourg-1962,10,Norway,Inger Jacobsen,"Kom Sol, Kom Regn",2,10
+1962,Luxembourg,https://eurovision.tv/event/luxembourg-1962,11,Switzerland,Jean Philippe,Le Retour,2,10
+1962,Luxembourg,https://eurovision.tv/event/luxembourg-1962,12,Yugoslavia,Lola Novakovic,Ne Pali Svetlo U Sumrak,10,4
+1962,Luxembourg,https://eurovision.tv/event/luxembourg-1962,13,United Kingdom,Ronnie Carroll,Ring-a-ding Girl,10,4
+1962,Luxembourg,https://eurovision.tv/event/luxembourg-1962,14,Luxembourg,Camillo Felgen,Petit Bonhomme,11,3
+1962,Luxembourg,https://eurovision.tv/event/luxembourg-1962,15,Italy,Claudio Villa,"Addio, Addio",3,9
+1962,Luxembourg,https://eurovision.tv/event/luxembourg-1962,16,Monaco,François Deguelt,Dis Rien,13,2
+1961,Cannes,https://eurovision.tv/event/cannes-1961,1,Spain,Conchita Bautista,Estando Contigo,8,9
+1961,Cannes,https://eurovision.tv/event/cannes-1961,2,Monaco,Colette Deréal,"Allons, Allons Les Enfants",6,10
+1961,Cannes,https://eurovision.tv/event/cannes-1961,3,Austria,Jimmy Makulis,Sehnsucht,1,15
+1961,Cannes,https://eurovision.tv/event/cannes-1961,4,Finland,Laila Kinnunen,Valoa Ikkunassa,6,10
+1961,Cannes,https://eurovision.tv/event/cannes-1961,5,Yugoslavia,Ljiljana Petrovic,Neke Davne Zvezde,9,8
+1961,Cannes,https://eurovision.tv/event/cannes-1961,6,The Netherlands,Greetje Kauffeld,Wat Een Dag,6,10
+1961,Cannes,https://eurovision.tv/event/cannes-1961,7,Sweden,Lill-Babs,"April, April",2,14
+1961,Cannes,https://eurovision.tv/event/cannes-1961,8,Germany,Lale Andersen,Einmal Sehen Wir Uns Wieder,3,13
+1961,Cannes,https://eurovision.tv/event/cannes-1961,9,France,Jean-Paul Mauric,Printemps (avril Carillonne),13,4
+1961,Cannes,https://eurovision.tv/event/cannes-1961,10,Switzerland,Franca di Rienzo,Nous Aurons Demain,16,3
+1961,Cannes,https://eurovision.tv/event/cannes-1961,11,Belgium,Bob Benny,"September, Gouden Roos",1,15
+1961,Cannes,https://eurovision.tv/event/cannes-1961,12,Norway,Nora Brockstedt,Sommer I Palma,10,7
+1961,Cannes,https://eurovision.tv/event/cannes-1961,13,Denmark,Dario Campeotto,Angelique,12,5
+1961,Cannes,https://eurovision.tv/event/cannes-1961,14,Luxembourg,Jean-Claude Pascal,Nous Les Amoureux,31,1
+1961,Cannes,https://eurovision.tv/event/cannes-1961,15,United Kingdom,The Allisons,Are You Sure?,24,2
+1961,Cannes,https://eurovision.tv/event/cannes-1961,16,Italy,Betty Curtis,Al Di Là,12,5
+1960,London,https://eurovision.tv/event/london-1960,1,United Kingdom,Bryan Johnson,"Looking High, High, High",25,2
+1960,London,https://eurovision.tv/event/london-1960,2,Sweden,Siw Malmkvist,Alla Andra Får Varann,4,10
+1960,London,https://eurovision.tv/event/london-1960,3,Luxembourg,Camillo Felgen,So Laang We's Du Do Bast,1,13
+1960,London,https://eurovision.tv/event/london-1960,4,Denmark,Katy Bødtger,Det Var En Yndig Tid,4,10
+1960,London,https://eurovision.tv/event/london-1960,5,Belgium,Fud Leclerc,Mon Amour Pour Toi,9,6
+1960,London,https://eurovision.tv/event/london-1960,6,Norway,Nora Brockstedt,Voi-voi,11,4
+1960,London,https://eurovision.tv/event/london-1960,7,Austria,Harry Winter,Du Hast Mich So Fasziniert,6,7
+1960,London,https://eurovision.tv/event/london-1960,8,Monaco,François Deguelt,Ce Soir-là,15,3
+1960,London,https://eurovision.tv/event/london-1960,9,Switzerland,Anita Traversi,Cielo E Terra,5,8
+1960,London,https://eurovision.tv/event/london-1960,10,The Netherlands,Rudi Carrell,Wat Een Geluk,2,12
+1960,London,https://eurovision.tv/event/london-1960,11,Germany,Wyn Hoop,"Bonne Nuit, Ma Chérie!",11,4
+1960,London,https://eurovision.tv/event/london-1960,12,Italy,Renato Rascel,Romantica,5,8
+1960,London,https://eurovision.tv/event/london-1960,13,France,Jacqueline Boyer,Tom Pillibi,32,1
+1959,Cannes,https://eurovision.tv/event/cannes-1959,1,France,Jean Philippe,"Oui, Oui, Oui, Oui",15,3
+1959,Cannes,https://eurovision.tv/event/cannes-1959,2,Denmark,Birthe Wilke,Uh-jeg Ville Ønske Jeg Var Dig,12,5
+1959,Cannes,https://eurovision.tv/event/cannes-1959,3,Italy,Domenico Modugno,Piove,9,6
+1959,Cannes,https://eurovision.tv/event/cannes-1959,4,Monaco,Jacques Pills,Mon Ami Pierrot,1,11
+1959,Cannes,https://eurovision.tv/event/cannes-1959,5,The Netherlands,Teddy Scholten,Een Beetje,21,1
+1959,Cannes,https://eurovision.tv/event/cannes-1959,6,Germany,Alice and Ellen Kessler,Heut' Woll'n Wir Tanzen Geh'n,5,8
+1959,Cannes,https://eurovision.tv/event/cannes-1959,7,Sweden,Brita Borg,Augustin,4,9
+1959,Cannes,https://eurovision.tv/event/cannes-1959,8,Switzerland,Christa Williams,Irgendwoher,14,4
+1959,Cannes,https://eurovision.tv/event/cannes-1959,9,Austria,Ferry Graf,Der K. Und K. Kalypso Aus Wien,4,9
+1959,Cannes,https://eurovision.tv/event/cannes-1959,10,United Kingdom,Pearl Carr and Teddy Johnson,Sing Little Birdie,16,2
+1959,Cannes,https://eurovision.tv/event/cannes-1959,11,Belgium,Bob Benny,Hou Toch Van Mij,9,6
+1958,Hilversum,https://eurovision.tv/event/hilversum-1958,1,Italy,Domenico Modugno,Nel Blu Dipinto Di Blu,13,3
+1958,Hilversum,https://eurovision.tv/event/hilversum-1958,2,The Netherlands,Corry Brokken,Heel De Wereld,1,9
+1958,Hilversum,https://eurovision.tv/event/hilversum-1958,3,France,André Claveau,Dors Mon Amour,27,1
+1958,Hilversum,https://eurovision.tv/event/hilversum-1958,4,Luxembourg,Solange Berry,Un Grand Amour,1,9
+1958,Hilversum,https://eurovision.tv/event/hilversum-1958,5,Sweden,Alice Babs,Lilla Stjärna,10,4
+1958,Hilversum,https://eurovision.tv/event/hilversum-1958,6,Denmark,Raquel Rastenni,Jeg Rev Et Blad Ud Af Min Dagbog,3,8
+1958,Hilversum,https://eurovision.tv/event/hilversum-1958,7,Belgium,Fud Leclerc,Ma Petite Chatte,8,5
+1958,Hilversum,https://eurovision.tv/event/hilversum-1958,8,Germany,Margot Hielscher,Für Zwei Groschen Musik,5,7
+1958,Hilversum,https://eurovision.tv/event/hilversum-1958,9,Austria,Liane Augustin,Die Ganze Welt Braucht Liebe,8,5
+1958,Hilversum,https://eurovision.tv/event/hilversum-1958,10,Switzerland,Lys Assia,Giorgio,24,2
+1957,Frankfurt,https://eurovision.tv/event/frankfurt-1957,1,Belgium,Bobbejaan Schoepen,Straatdeuntje,5,8
+1957,Frankfurt,https://eurovision.tv/event/frankfurt-1957,2,Luxembourg,Danièle Dupré,Tant De Peine,8,4
+1957,Frankfurt,https://eurovision.tv/event/frankfurt-1957,3,United Kingdom,Patricia Bredin,All,6,7
+1957,Frankfurt,https://eurovision.tv/event/frankfurt-1957,4,Italy,Nunzio Gallo,Corde Della Mia Chitarra,7,6
+1957,Frankfurt,https://eurovision.tv/event/frankfurt-1957,5,Austria,Bob Martin,"Wohin, Kleines Pony",3,10
+1957,Frankfurt,https://eurovision.tv/event/frankfurt-1957,6,The Netherlands,Corry Brokken,Net Als Toen,31,1
+1957,Frankfurt,https://eurovision.tv/event/frankfurt-1957,7,Germany,Margot Hielscher,"Telefon, Telefon",8,4
+1957,Frankfurt,https://eurovision.tv/event/frankfurt-1957,8,France,Paule Desjardins,La Belle Amour,17,2
+1957,Frankfurt,https://eurovision.tv/event/frankfurt-1957,9,Denmark,Birthe Wilke and Gustav Winckler,Skibet Skal Sejle I Nat,10,3
+1957,Frankfurt,https://eurovision.tv/event/frankfurt-1957,10,Switzerland,Lys Assia,L'enfant Que J'étais,5,8
+1956,Lugano,https://eurovision.tv/event/lugano-1956,1,The Netherlands,Jetty Paerl,De Vogels Van Holland,NA,2
+1956,Lugano,https://eurovision.tv/event/lugano-1956,2,Switzerland,Lys Assia,Das Alte Karussell,NA,2
+1956,Lugano,https://eurovision.tv/event/lugano-1956,3,Belgium,Fud Leclerc,Messieurs Les Noyés De La Seine,NA,2
+1956,Lugano,https://eurovision.tv/event/lugano-1956,4,Germany,Walter Andreas Schwarz,Im Wartesaal Zum Großen Glück,NA,2
+1956,Lugano,https://eurovision.tv/event/lugano-1956,5,France,Mathé Altéry,Le Temps Perdu,NA,2
+1956,Lugano,https://eurovision.tv/event/lugano-1956,6,Luxembourg,Michèle Arnaud,Ne Crois Pas,NA,2
+1956,Lugano,https://eurovision.tv/event/lugano-1956,7,Italy,Franca Raimondi,Aprite Le Finestre,NA,2
+1956,Lugano,https://eurovision.tv/event/lugano-1956,8,The Netherlands,Corry Brokken,Voorgoed Voorbij,NA,2
+1956,Lugano,https://eurovision.tv/event/lugano-1956,9,Switzerland,Lys Assia,Refrain,NA,1
+1956,Lugano,https://eurovision.tv/event/lugano-1956,10,Belgium,Mony Marc,Le Plus Beau Jour De Ma Vie,NA,2
+1956,Lugano,https://eurovision.tv/event/lugano-1956,11,Germany,Freddy Quinn,So Geht Das Jede Nacht,NA,2
+1956,Lugano,https://eurovision.tv/event/lugano-1956,12,France,Dany Dauberson,Il Est Là,NA,2
+1956,Lugano,https://eurovision.tv/event/lugano-1956,13,Luxembourg,Michèle Arnaud,Les Amants De Minuit,NA,2
+1956,Lugano,https://eurovision.tv/event/lugano-1956,14,Italy,Tonina Torielli,Amami Se Vuoi,NA,2
