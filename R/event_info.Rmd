@@ -1,0 +1,57 @@
+---
+title: 'Eurovision: Event Information'
+author: "mnaR99"
+date: "12/7/2020"
+output: html_document
+---
+
+```{r}
+library(rvest)
+library(tidyverse)
+library(lubridate)
+```
+
+```{r}
+evhtml <- read_html("https://eurovision.tv/events")
+```
+
+```{r}
+events_urls <- evhtml %>% 
+  html_node("main") %>% 
+  html_nodes("a") %>% 
+  html_attr("href") %>% 
+  str_subset("event/") %>% 
+  .[-(1:2)]
+```
+
+```{r}
+infobox <- events_urls %>% 
+  map_df(
+     ~ read_html(.x) %>% 
+    html_nodes(".space-y-4 .font-bold") %>% 
+    html_text(TRUE) %>% 
+    matrix(ncol = 2, byrow = TRUE) %>% 
+    as_tibble(),
+    .id = "event_id"
+  )
+```
+
+```{r}
+event_info <- infobox %>% 
+  mutate(V1 = recode(V1, "Grand Final" = "Final")) %>% 
+  spread(V1, V2) %>%
+  gather("event", "date", "Final", "Semi-Final", "First Semi-Final", "Second Semi-Final") %>% 
+  janitor::clean_names() %>% 
+  filter(!is.na(date)) %>% 
+  mutate(across(2:5, ~ case_when(. %in% c("","—") ~ NA_character_, TRUE ~ .)),
+         year = as.numeric(str_extract(date, "\\d{4}")),
+         date = str_remove(date,", \\d{2}:.+$")) %>% 
+  select(10:1, -event_id) %>% 
+  arrange(year, event) %>% 
+  separate(venue_location, c("venue","city","country"), ", ") %>% 
+  relocate(country, city , .before = venue) %>% 
+  separate(date, c("weekday","date"), ", ", extra = "merge") %>% 
+  relocate(date, .before = weekday)
+
+write_csv(event_info, here::here("data","event_info.csv"))
+```
