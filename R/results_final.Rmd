@@ -55,7 +55,9 @@ scoreboards <- grand_finals %>%
   as_tibble() %>% 
   mutate(across(c(4,8,9), parse_number),
          event_url = map_chr(url_index, ~events_urls[as.numeric(.x)]), 
-         .after = 3) %>% 
+         .after = 3) %>%
+  mutate(points = case_when(is.na(points) & year > 1956 ~ 0,
+                            TRUE ~ points)) %>% 
   select(-url_index)
 
 write_csv(scoreboards, path = here::here("data","grand_final.csv"))
