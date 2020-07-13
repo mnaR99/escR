@@ -1,0 +1,83 @@
+---
+title: "Eurovision Lyrics 2010-2020"
+author: "mnaR99"
+date: "12/7/2020"
+output: html_document
+---
+
+```{r}
+library(rvest)
+library(tidyverse)
+```
+
+```{r}
+evhtml <- read_html("https://eurovision.tv/events")
+
+events_urls <- evhtml %>% 
+  html_node("main") %>% 
+  html_nodes("a") %>% 
+  html_attr("href") %>% 
+  str_subset("event/") %>% 
+  .[2:12]
+```
+
+```{r}
+get_event_lyrics <- function(eurl){
+
+  event <- eurl %>% 
+    read_html() %>% 
+    html_node("h1") %>% 
+    html_text(T)
+  
+  participants <- eurl %>% 
+    str_c("/participants") %>% 
+    read_html() %>% 
+    html_nodes(".h-full.outline-none") %>% 
+    html_attr("href")
+  
+  get_participant_info <- function(participant_url){
+  
+    participant <- read_html(participant_url)
+    
+    country <- html_nodes(participant, ".text-blue-600.group") %>% 
+      html_text(TRUE)
+    
+    contestant <- html_node(participant, ".pl-10") %>% 
+      html_node("h1") %>% 
+      html_text(TRUE)
+    
+    song <- html_node(participant, ".pl-10") %>% 
+      html_node("h2") %>% 
+      html_text(TRUE)
+    
+    language <- html_nodes(participant, ".space-x-4") %>% 
+      html_nodes("button") %>% 
+      html_text(TRUE)
+    
+    lyrics <- html_nodes(participant, ".whitespace-pre-line") %>% 
+      html_text(TRUE)
+    
+    tibble(country, contestant, song, language, lyrics)
+  
+  }
+
+  event_participants <- map_df(participants, get_participant_info)
+  
+  tibble(event, event_participants)
+
+}
+```
+
+```{r}
+eurovision_lyrics <- map_df(events_urls, get_event_lyrics)
+
+lyrics <- eurovision_lyrics %>% 
+  mutate(language = na_if(language, ""),
+         language = str_replace_all(language, "/",", ") %>% 
+           str_remove_all("\\s(?=,)") %>% 
+           str_squish()) %>%
+  extract(event, c("city", "year"), "^(.*)\\s(\\d{4})$") %>% 
+  relocate(year, city)
+
+write_csv(lyrics, here::here("data","lyrics.csv"))
+```
