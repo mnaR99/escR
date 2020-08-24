@@ -4,9 +4,7 @@ Eurovision Song Contest web scrapped data in R.
 
 The goal of `escR` is to provide the scores, votes and general information of each Eurovision Song Contest event.
 
-*** 
-
-# About Eurovision Song Contest
+## About Eurovision Song Contest
 
 > The Eurovision Song Contest is organised yearly by the European Broadcasting Union (EBU), together with the Host Broadcaster and some 40 Participating Broadcasters. 
 > 
@@ -22,11 +20,9 @@ The goal of `escR` is to provide the scores, votes and general information of ea
 > 
 > The winner will perform once again, and take home the iconic glass microphone trophy. The winning country will traditionally be given the honour of hosting the next Eurovision Song Contest.
 
-***
+## Data Dictionary
 
-# Data Dictionary
-
-# `results.csv`
+### `results.csv`
 
 |variable          |class     |description |
 |:-----------------|:---------|:-----------|
@@ -42,7 +38,7 @@ The goal of `escR` is to provide the scores, votes and general information of ea
 |qualified            |character  | Qualified to the final stage |
 
 
-# `votes.csv`
+### `votes.csv`
 
 |variable          |class     |description |
 |:-----------------|:---------|:-----------|
@@ -54,7 +50,7 @@ The goal of `escR` is to provide the scores, votes and general information of ea
 |to                   |character  | Receiving Country |
 |points               |double     | Points given |
 
-# `event_info.csv`
+### `event_info.csv`
 
 |variable          |class     |description |
 |:-----------------|:---------|:-----------|
