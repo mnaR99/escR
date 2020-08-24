@@ -1,4 +1,4 @@
-# escR · R Package <a><img src='img/escR_hex.png' align="right" height="139" /></a>
+# escR <a><img src='img/escR_hex.png' align="right" height="139" /></a>
 
 Eurovision Song Contest web scrapped data in R.
 
