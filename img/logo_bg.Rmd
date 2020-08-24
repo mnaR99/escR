@@ -1,0 +1,51 @@
+---
+title: "escR Logo"
+author: "mnaR99"
+date: "24/8/2020"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+library(ggforce)
+library(packcircles)
+```
+
+```{r}
+results <- read_csv("data/results.csv")
+```
+
+```{r}
+set.seed(2020)
+
+escR_bg <-
+  results %>% 
+  filter(year < 2020) %>% 
+  arrange(year, country, stage, place) %>% 
+  group_by(year, country) %>% 
+  slice(1) %>% 
+  ungroup() %>% 
+  add_count(year) %>% 
+  select(year, country, place, n) %>%
+  sample_frac() %>%
+  mutate(
+    r = 1,
+    circleProgressiveLayout(r, sizetype = "area")
+  ) %>% 
+   ggplot() + 
+    geom_circle(
+      aes(x0 = x, y0 = y, r = radius, fill = 1/place),
+      color = "black",
+      size = 2
+    ) +
+    scale_fill_viridis_c(option = "B") +
+    theme_void() +
+    theme(
+      legend.position = "none", 
+      plot.background = element_rect(fill = "black")
+    )
+
+ggsave(here::here("img","escR_bg.pdf"), escR_bg, device = cairo_pdf, width = 20, height = 20)
+
+pdftools::pdf_convert(here::here("img","escR_bg.pdf"), format = "png", dpi = 600, filenames = here::here("img","escR_bg.png"))
+```
