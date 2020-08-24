@@ -9,6 +9,7 @@ output: html_document
 library(rvest)
 library(tidyverse)
 library(lubridate)
+library(janitor)
 ```
 
 ```{r}
@@ -25,33 +26,40 @@ events_urls <- evhtml %>%
 ```
 
 ```{r}
-infobox <- events_urls %>% 
+infobox <-
+  events_urls %>% 
   map_df(
      ~ read_html(.x) %>% 
     html_nodes(".space-y-4 .font-bold") %>% 
     html_text(TRUE) %>% 
     matrix(ncol = 2, byrow = TRUE) %>% 
-    as_tibble(),
+    as_tibble() %>%
+    set_names(c("key","value")),
     .id = "event_id"
   )
 ```
 
 ```{r}
-event_info <- infobox %>% 
-  mutate(V1 = recode(V1, "Grand Final" = "Final")) %>% 
-  spread(V1, V2) %>%
-  gather("event", "date", "Final", "Semi-Final", "First Semi-Final", "Second Semi-Final") %>% 
-  janitor::clean_names() %>% 
+event_info <-
+  infobox %>% 
+  mutate(key = recode(key, "Grand Final" = "Final", "Semi-Final" = "SF0", "First Semi-Final" = "SF1", "Second Semi-Final" = "SF2")) %>% 
+  spread(key, value) %>% 
+  gather(stage, date, "Final", "SF0", "SF1", "SF2") %>%
   filter(!is.na(date)) %>% 
-  mutate(across(2:5, ~ case_when(. %in% c("","—") ~ NA_character_, TRUE ~ .)),
-         year = as.numeric(str_extract(date, "\\d{4}")),
-         date = str_remove(date,", \\d{2}:.+$")) %>% 
+  clean_names() %>% 
+  mutate(
+    across(2:5, ~ ifelse(. %in% c("","—"), NA_character_, .)),
+    across(c(2,5,6), ~ str_replace(., " (and|&)", ",")),
+    year = as.numeric(str_extract(date, "\\d{4}")),
+    date = str_remove(date,", \\d{2}:.+$")
+  ) %>% 
   select(10:1, -event_id) %>% 
-  arrange(year, event) %>% 
-  separate(venue_location, c("venue","city","country"), ", ") %>% 
-  relocate(country, city , .before = venue) %>% 
-  separate(date, c("weekday","date"), ", ", extra = "merge") %>% 
-  relocate(date, .before = weekday)
+  extract(venue_location, c("venue","city","country"), "^(.*[,]?), (.*), (.*)$") %>%
+  mutate(date = dmy(date)) %>% 
+  arrange(year, date) %>% 
+  rename(host_country = country)
+```
 
+```{r}
 write_csv(event_info, here::here("data","event_info.csv"))
 ```
