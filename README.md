@@ -1,4 +1,4 @@
-# eurovisionR
+# Eurovision Song Contest R
 
 Eurovision Song Contest Web-scrapped data
 
