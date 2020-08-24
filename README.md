@@ -1,8 +1,30 @@
-# Eurovision Song Contest R
+# escR · R Package <a><img src='img/escR_hex.png' align="right" height="139" /></a>
 
-Eurovision Song Contest Web-scrapped data
+Eurovision Song Contest web scrapped data in R.
 
-# Data
+The goal of `escR` is to provide the scores, votes and general information of each Eurovision Song Contest event.
+
+*** 
+
+# About Eurovision Song Contest
+
+> The Eurovision Song Contest is organised yearly by the European Broadcasting Union (EBU), together with the Host Broadcaster and some 40 Participating Broadcasters. 
+> 
+> Each participating broadcaster that represents their country chooses their performer (maximum 6 people) and song (maximum 3 minutes, not released before) through a national televised selection, or through an internal selection. Each country is free to decide if they send their number-1 star or the best new talent they could find.
+> 
+> The winner of the Eurovision Song Contest will be chosen through 2 Semi-Finals and a Grand Final. Traditionally, 6 countries are automatically pre-qualified for the Grand Final. The so-called *Big 5* — France, Germany, Italy, Spain and the United Kingdom — and the host country. From each Semi-Final, the best 10 will proceed to the Grand Final.
+> 
+> After all songs have been performed, each country will give two sets of 1 to 8, 10 and 12 points; one set given by a jury of five music industry professionals, and one set given by viewers at home. Viewers can vote by telephone, SMS and through the official app.
+> 
+> Only those countries who take part in the respective Semi-Final vote, along with 3 of the 6 pre-qualified countries. Which countries take part and vote in which Semi-Final is determined by the so-called Semi-Final Allocation Draw in late January.
+> 
+> In the Grand Final, juries and viewers from all participating countries can vote again, after the 26 finalists have performed.
+> 
+> The winner will perform once again, and take home the iconic glass microphone trophy. The winning country will traditionally be given the honour of hosting the next Eurovision Song Contest.
+
+***
+
+# Data Dictionary
 
 # `results.csv`
 
