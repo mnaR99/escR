@@ -1,0 +1,133 @@
+---
+title: 'Eurovision: Detailed Voting'
+author: "mnaR99"
+date: "12/7/2020"
+output: html_document
+---
+
+```{r}
+library(rvest)
+library(tidyverse)
+library(janitor)
+```
+
+```{r}
+evhtml <- read_html("https://eurovision.tv/events")
+```
+
+```{r}
+events_urls <- 
+  evhtml %>% 
+  html_node("main") %>% 
+  html_nodes("a") %>% 
+  html_attr("href") %>% 
+  str_subset("event/") %>% 
+  .[-1]
+```
+
+```{r}
+get_votes <- function(url, year){
+  
+  countries_options <- 
+    read_html(url) %>% 
+    html_nodes(".form-select") %>% 
+    html_nodes("option")
+  
+  countries_urls <- 
+    countries_options %>% 
+    html_attr("value") %>% 
+    .[-1]
+  
+  countries <- countries_options %>% 
+    html_text(trim = T) %>% 
+    .[-1]
+  
+  if (year < 2016) {
+    get_votes_given <- function(country, country_url){
+      
+      pts_given <- country_url %>% 
+      read_html() %>% 
+      html_table(fill = T) %>% 
+      last()
+    
+      pts_given %>% 
+        select(to = 2, points = 1) %>% 
+        as_tibble() %>% 
+        mutate(from = country, .before = 1)
+    }
+  } else {
+    get_votes_given <- function(country, country_url){
+      
+      tables <- read_html(country_url) %>% 
+      html_table(fill = T)
+    
+      tables[length(tables)-c(2,1)] %>% 
+        set_names("Televote","Jury") %>% 
+        map_df(~ set_names(.x, c("points", "to")), .id = "by") %>% 
+        mutate(from = country)
+    } 
+  }
+  
+  map2_df(countries, countries_urls, get_votes_given)
+}
+```
+
+```{r}
+votes <- tibble(events_urls) %>% 
+  mutate(
+    year = as.numeric(str_extract(events_urls, "\\d{4}")),
+    stage = case_when(
+      year < 2004 ~ "final",
+      year < 2008 ~ "semi-final,grand-final",
+      TRUE ~ "first-semi-final,second-semi-final,grand-final" 
+    )
+  ) %>% 
+  filter(between(year, 1957, 2019)) %>% 
+  separate_rows(stage, sep = ",") %>%
+  unite(votes_urls, events_urls, stage, sep = "/", remove = F) %>% 
+  mutate(
+    votes_urls = paste0(votes_urls, "/results"),
+    votes = map2(votes_urls, year, get_votes)
+  )
+
+write_rds(votes, here::here("data","votes.rds"))
+```
+
+```{r}
+votes <- read_rds(here::here("data","votes.rds"))
+```
+
+```{r Belarus Votes in 2019 Final}
+url_2019F_belarus <- "https://eurovision.tv/event/tel-aviv-2019/grand-final/results/belarus"
+
+votes_2019F_belarus <- read_html(url_2019F_belarus) %>% 
+  html_table(fill = T) %>% 
+  .[3:4] %>% 
+  set_names("Televote","Jury") %>% 
+  map_df(~ set_names(.x, c("points", "to")), .id = "by")
+```
+
+```{r}
+all_votes <-
+  votes %>% 
+  unnest(votes) %>% 
+  select(year, events_urls, stage, by, from, to, points) %>%
+  mutate(
+    stage = recode(
+      stage, 
+      "semi-final" = "SF0", 
+      "first-semi-final" = "SF1", 
+      "second-semi-final" = "SF2",
+      "final" = "Final", 
+      "grand-final" = "Final"
+    )
+  ) %>% 
+  nest_by(year, events_urls, stage, from) %>%
+  rowwise() %>% 
+  mutate(data = ifelse(year == 2019 & stage == "Final" & from == "Belarus", list(votes_2019F_belarus), list(data))) %>% 
+  unnest()
+```
+
+```{r}
+write_csv(all_votes, here::here("data","votes.csv"))
+```
