@@ -1,0 +1,83 @@
+---
+title: 'Eurovision: History by year'
+author: "mnaR99"
+date: "23/8/2020"
+output: html_document
+---
+
+```{r}
+library(rvest)
+library(tidyverse)
+library(janitor)
+```
+
+```{r}
+evhtml <- read_html("https://eurovision.tv/events")
+```
+
+```{r}
+events_urls <- 
+  evhtml %>% 
+  html_node("main") %>% 
+  html_nodes("a") %>% 
+  html_attr("href") %>% 
+  str_subset("event/") %>% 
+  .[-1]
+```
+
+```{r}
+get_scoreboard <- function(url){
+  read_html(url) %>% 
+  html_table() %>% 
+  .[[1]]
+}
+```
+
+```{r}
+scores <- tibble(events_urls) %>% 
+  mutate(
+    year = as.numeric(str_extract(events_urls, "\\d{4}")),
+    stage = case_when(
+      year < 2004 ~ "final",
+      year < 2008 ~ "semi-final,grand-final",
+      TRUE ~ "first-semi-final,second-semi-final,grand-final" 
+    )
+  ) %>% 
+  separate_rows(stage, sep = ",") %>%
+  unite(scoreboard_url, events_urls, stage, sep = "/", remove = F) %>% 
+  mutate(
+    scoreboard = map(scoreboard_url, get_scoreboard)
+  )
+```
+
+```{r}
+results <- 
+  scores %>% 
+  mutate(scoreboard = map(scoreboard, mutate_all, as.character)) %>% 
+  unnest(scoreboard) %>% 
+  clean_names() %>% 
+  mutate(
+    r_o = as.numeric(r_o),
+    place = as.numeric(str_extract(place, "\\d+")),
+    points = as.numeric(str_extract(points, "\\d+")),
+    points = case_when(
+      is.na(points) & between(year, 1957, 2019) & contestant != "Withdrew from the competition, but still voted" ~ 0,
+      !is.na(points) ~ points
+    ),
+    contestant = str_remove(contestant, "\u008e"),
+    qualified = str_extract(contestant, "qualified"),
+    contestant = str_remove(contestant, "\n\n\n\nqualified"),
+    stage = recode(
+      stage, 
+      "semi-final" = "SF0", 
+      "first-semi-final" = "SF1", 
+      "second-semi-final" = "SF2",
+      "final" = "Final", 
+      "grand-final" = "Final"
+    )
+  ) %>% 
+  select(year, everything(), -scoreboard_url) %>%
+  arrange(-year, stage, r_o)
+
+write_csv(results, here::here("data","results.csv"))
+```
