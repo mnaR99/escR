@@ -1,6 +1,6 @@
 # eurovisionR
 
-Eurovision web-scrapped data
+Eurovision Song Contest Web-scrapped data
 
 # Data
 
