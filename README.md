@@ -34,8 +34,8 @@ The goal of `escR` is to provide the scores, votes and general information of ea
 |contestant           |character  | Artist/Band |
 |song                 |character  | Name of the song |
 |points               |double     | Points received |
-|place                |double     | Place at the end of the stage |
-|qualified            |character  | Qualified to the final stage |
+|place                |double     | Place at the end of the round |
+|qualified            |character  | Qualified to the final round |
 
 ### `votes.csv`
 
