@@ -28,7 +28,7 @@ The goal of `escR` is to provide the scores, votes and general information of ea
 |:-----------------|:---------|:-----------|
 |year                 |double     | Year of the event |
 |events_urls          |character  | Event Information URL |
-|stage                |character  | Contest Stage |
+|stage                |character  | Contest Round |
 |r_o                  |double     | Running Order |
 |country              |character  | Participating country |
 |contestant           |character  | Artist/Band |
@@ -37,14 +37,13 @@ The goal of `escR` is to provide the scores, votes and general information of ea
 |place                |double     | Place at the end of the stage |
 |qualified            |character  | Qualified to the final stage |
 
-
 ### `votes.csv`
 
 |variable          |class     |description |
 |:-----------------|:---------|:-----------|
 |year                 |double     | Year of the event |
 |events_urls          |character  | Event Information URL |
-|stage                |character  | Contest Stage |
+|stage                |character  | Contest Round |
 |from                 |character  | Voting Country |
 |by                   |character  | Televote/Jury |
 |to                   |character  | Receiving Country |
@@ -56,7 +55,7 @@ The goal of `escR` is to provide the scores, votes and general information of ea
 |:-----------------|:---------|:-----------|
 |year                 |double     | Year of the event |
 |date                 |date       | Date of the event |
-|stage                |character  | Contest Stage |
+|stage                |character  | Contest Round |
 |venue                |character  | Venue |
 |city                 |character  | City |
 |host_country         |character  | Host Country |
@@ -65,3 +64,17 @@ The goal of `escR` is to provide the scores, votes and general information of ea
 |host_broadcaster     |character  | Host Broadcaster |
 |executive_supervisor |character  | Executive Supervisor |
 |executive_producer   |character  | Executive Producer |
+
+### `lyrics.csv`
+
+|variable          |class     |description |
+|:-----------------|:---------|:-----------|
+|year                 |double     | Year of the event, 2010-2020 |
+|events_urls          |character  | Event Information URL |
+|country              |character  | Participating country |
+|contestant           |character  | Artist/Band |
+|song                 |character  | Name of the song |
+|composed_by          |character  | Composers |
+|written_by           |character  | Writers |
+|language             |character  | Language |
+|lyrics               |character  | Lyrics |
