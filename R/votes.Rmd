@@ -76,15 +76,15 @@ get_votes <- function(url, year){
 votes <- tibble(events_urls) %>% 
   mutate(
     year = as.numeric(str_extract(events_urls, "\\d{4}")),
-    stage = case_when(
+    round = case_when(
       year < 2004 ~ "final",
       year < 2008 ~ "semi-final,grand-final",
       TRUE ~ "first-semi-final,second-semi-final,grand-final" 
     )
   ) %>% 
   filter(between(year, 1957, 2019)) %>% 
-  separate_rows(stage, sep = ",") %>%
-  unite(votes_urls, events_urls, stage, sep = "/", remove = F) %>% 
+  separate_rows(round, sep = ",") %>%
+  unite(votes_urls, events_urls, round, sep = "/", remove = F) %>% 
   mutate(
     votes_urls = paste0(votes_urls, "/results"),
     votes = map2(votes_urls, year, get_votes)
@@ -111,10 +111,10 @@ votes_2019F_belarus <- read_html(url_2019F_belarus) %>%
 all_votes <-
   votes %>% 
   unnest(votes) %>% 
-  select(year, events_urls, stage, by, from, to, points) %>%
+  select(year, events_urls, round, by, from, to, points) %>%
   mutate(
-    stage = recode(
-      stage, 
+    round = recode(
+      round, 
       "semi-final" = "SF0", 
       "first-semi-final" = "SF1", 
       "second-semi-final" = "SF2",
@@ -122,9 +122,9 @@ all_votes <-
       "grand-final" = "Final"
     )
   ) %>% 
-  nest_by(year, events_urls, stage, from) %>%
+  nest_by(year, events_urls, round, from) %>%
   rowwise() %>% 
-  mutate(data = ifelse(year == 2019 & stage == "Final" & from == "Belarus", list(votes_2019F_belarus), list(data))) %>% 
+  mutate(data = ifelse(year == 2019 & round == "Final" & from == "Belarus", list(votes_2019F_belarus), list(data))) %>% 
   unnest()
 ```
 
