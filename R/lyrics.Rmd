@@ -23,11 +23,6 @@ events_urls <- evhtml %>%
 
 ```{r}
 get_event_lyrics <- function(eurl){
-
-  event <- eurl %>% 
-    read_html() %>% 
-    html_node("h1") %>% 
-    html_text(T)
   
   participants <- eurl %>% 
     str_c("/participants") %>% 
@@ -35,49 +30,60 @@ get_event_lyrics <- function(eurl){
     html_nodes(".h-full.outline-none") %>% 
     html_attr("href")
   
-  get_participant_info <- function(participant_url){
+  get_infobox_participant <- function(url){
   
-    participant <- read_html(participant_url)
+    participant <- read_html(url)
     
-    country <- html_nodes(participant, ".text-blue-600.group") %>% 
-      html_text(TRUE)
+    name <- participant %>% 
+      html_node(".pl-10 h1") %>% 
+      html_text(T)
     
-    contestant <- html_node(participant, ".pl-10") %>% 
-      html_node("h1") %>% 
-      html_text(TRUE)
-    
-    song <- html_node(participant, ".pl-10") %>% 
-      html_node("h2") %>% 
-      html_text(TRUE)
-    
-    language <- html_nodes(participant, ".space-x-4") %>% 
+    language <- participant %>% 
+      html_nodes(".space-x-4") %>% 
       html_nodes("button") %>% 
       html_text(TRUE)
     
-    lyrics <- html_nodes(participant, ".whitespace-pre-line") %>% 
+    lyrics <- participant %>% 
+      html_nodes(".whitespace-pre-line") %>% 
       html_text(TRUE)
     
-    tibble(country, contestant, song, language, lyrics)
-  
+    infobox <- participant %>% 
+      html_node(".bg-gray-200 .space-y-4") %>% 
+      html_children() %>% 
+      html_children() %>% 
+      html_text(trim = TRUE)
+    
+    infobox <- c("Contestant", name, infobox) %>%
+      matrix(ncol = 2, byrow = T, dimnames = list(NULL, c("key","value"))) %>% 
+      as_tibble() %>% 
+      spread(key, value)
+    
+    tibble(infobox, language, lyrics)
   }
-
-  event_participants <- map_df(participants, get_participant_info)
   
-  tibble(event, event_participants)
-
+  map_df(participants, get_infobox_participant)
 }
 ```
 
 ```{r}
-eurovision_lyrics <- map_df(events_urls, get_event_lyrics)
+eurovision_lyrics <- tibble(events_urls) %>% 
+  mutate(participants_info = map(events_urls, get_event_lyrics))
 
+write_rds(eurovision_lyrics, here::here("data","lyrics.rds"))
+```
+
+```{r}
+eurovision_lyrics  <- read_rds(here::here("data","lyrics.rds"))
+  
 lyrics <- eurovision_lyrics %>% 
-  mutate(language = na_if(language, ""),
-         language = str_replace_all(language, "/",", ") %>% 
-           str_remove_all("\\s(?=,)") %>% 
-           str_squish()) %>%
-  extract(event, c("city", "year"), "^(.*)\\s(\\d{4})$") %>% 
-  relocate(year, city)
+  unnest() %>% 
+  janitor::clean_names() %>% 
+  select(events_urls, country, contestant, song, composed_by, written_by, language, lyrics) %>%
+  mutate(
+    year = str_extract(events_urls, "\\d{4}"), .before = 1,
+    language = na_if(language, ""),
+    language = str_replace_all(language, "/",", ") %>% str_squish()
+  )
 
 write_csv(lyrics, here::here("data","lyrics.csv"))
 ```
