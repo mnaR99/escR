@@ -1,4 +1,4 @@
-year,events_urls,stage,r_o,country,contestant,song,points,place,qualified
+year,events_urls,round,r_o,country,contestant,song,points,place,qualified
 2020,https://eurovision.tv/event/rotterdam-2020,Final,23,The Netherlands,Jeangu Macrooy,Grow,NA,NA,NA
 2020,https://eurovision.tv/event/rotterdam-2020,Final,NA,France,Tom Leeb,Mon Alliée (The Best In Me),NA,NA,NA
 2020,https://eurovision.tv/event/rotterdam-2020,Final,NA,Germany,Ben Dolic,Violent Thing,NA,NA,NA

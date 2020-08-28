@@ -37,14 +37,14 @@ get_scoreboard <- function(url){
 scores <- tibble(events_urls) %>% 
   mutate(
     year = as.numeric(str_extract(events_urls, "\\d{4}")),
-    stage = case_when(
+    round = case_when(
       year < 2004 ~ "final",
       year < 2008 ~ "semi-final,grand-final",
       TRUE ~ "first-semi-final,second-semi-final,grand-final" 
     )
   ) %>% 
-  separate_rows(stage, sep = ",") %>%
-  unite(scoreboard_url, events_urls, stage, sep = "/", remove = F) %>% 
+  separate_rows(round, sep = ",") %>%
+  unite(scoreboard_url, events_urls, round, sep = "/", remove = F) %>% 
   mutate(
     scoreboard = map(scoreboard_url, get_scoreboard)
   )
@@ -67,8 +67,8 @@ results <-
     contestant = str_remove(contestant, "\u008e"),
     qualified = str_extract(contestant, "qualified"),
     contestant = str_remove(contestant, "\n\n\n\nqualified"),
-    stage = recode(
-      stage, 
+    round = recode(
+      round, 
       "semi-final" = "SF0", 
       "first-semi-final" = "SF1", 
       "second-semi-final" = "SF2",
@@ -77,7 +77,7 @@ results <-
     )
   ) %>% 
   select(year, everything(), -scoreboard_url) %>%
-  arrange(-year, stage, r_o)
+  arrange(-year, round, r_o)
 
 write_csv(results, here::here("data","results.csv"))
 ```
