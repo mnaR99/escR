@@ -44,7 +44,7 @@ event_info <-
   infobox %>% 
   mutate(key = recode(key, "Grand Final" = "Final", "Semi-Final" = "SF0", "First Semi-Final" = "SF1", "Second Semi-Final" = "SF2")) %>% 
   spread(key, value) %>% 
-  gather(stage, date, "Final", "SF0", "SF1", "SF2") %>%
+  gather(round, date, "Final", "SF0", "SF1", "SF2") %>%
   filter(!is.na(date)) %>% 
   clean_names() %>% 
   mutate(
